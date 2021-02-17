@@ -1,0 +1,77 @@
+41/3/17 Afflic/UA Spec - NAKED - 20% ISB ===============================
+
+Total      :      398,528 ( 664 DPS) Casts:  314   Miss:  29 (14.4%)
+Shadow Bolt:       75,200 (18.9%)    Casts:   81  Crits:   5 ( 6.2%)
+Immolate   :       32,970 ( 8.3%)    Casts:   46  Crits:   3 ( 6.5%)
+Corruption :       50,832 (12.8%)    Casts:   37
+Curse Doom :       57,886 (14.5%)    Casts:   10
+Curse Agony:        5,533 ( 1.4%)    Casts:    3
+Siphon Life:       18,103 ( 4.5%)    Casts:   24
+Unstable Af:       52,093 (13.1%)    Casts:   32
+Firebolt   :      158,004 (39.6%)    Casts:  399
+Lifetap    :          816 (MPT)      Casts:  113  (169.5s)
+
+41/3/17 Afflic/UA Spec - GREENS - 30% ISB ==============================
+
+Total      :      565,680 ( 942 DPS) Casts:  300   Miss:  32 (15.0%)
+Shadow Bolt:      150,338 (26.6%)    Casts:   99  Crits:  10 (10.1%)
+Immolate   :       63,103 (11.2%)    Casts:   44  Crits:   7 (15.9%)
+Corruption :       85,467 (15.1%)    Casts:   35
+Curse Doom :       75,928 (13.4%)    Casts:   12
+Curse Agony:        6,766 ( 1.2%)    Casts:    2
+Siphon Life:       26,074 ( 4.6%)    Casts:   22
+Unstable Af:       74,936 (13.2%)    Casts:   35
+Firebolt   :      158,004 (27.9%)    Casts:  399
+Lifetap    :        1,136 (MPT)      Casts:   86  (129.0s)
+
+41/3/17 Afflic/UA Spec - PRE-RAID - 40% ISB ==============================
+
+Total      :      871,317 (1452 DPS) Casts:  294   Miss:   9 ( 3.9%)
+Shadow Bolt:      338,516 (38.9%)    Casts:  124  Crits:  23 (18.5%)
+Immolate   :       94,183 (10.8%)    Casts:   40  Crits:   4 (10.0%)
+Corruption :      140,296 (16.1%)    Casts:   32
+Curse Doom :       92,436 (10.6%)    Casts:    9
+Curse Agony:       10,997 ( 1.3%)    Casts:    3
+Siphon Life:       36,885 ( 4.2%)    Casts:   20
+Unstable Af:      109,855 (12.6%)    Casts:   32
+Firebolt   :      158,004 (18.1%)    Casts:  399
+Lifetap    :        1,549 (MPT)      Casts:   66  (97.0s)
+
+41/3/17 Afflic/UA Spec - TIER 5 - 60% ISB ================================
+
+Total      :      972,319 (1620 DPS) Casts:  292   Miss:   3 ( 1.3%)
+Shadow Bolt:      406,719 (41.8%)    Casts:  129  Crits:  28 (21.7%)
+Immolate   :       99,561 (10.2%)    Casts:   39  Crits:   9 (23.1%)
+Corruption :      157,006 (16.1%)    Casts:   31
+Curse Doom :       99,741 (10.3%)    Casts:    9
+Curse Agony:       11,936 ( 1.2%)    Casts:    2
+Siphon Life:       39,352 ( 4.0%)    Casts:   19
+Unstable Af:      121,120 (12.5%)    Casts:   31
+Firebolt   :      158,004 (16.3%)    Casts:  399
+Lifetap    :        1,624 (MPT)      Casts:   63  (92.6s)
+
+41/3/17 Afflic/UA Spec - Ultimate - 75% ISB ================================
+
+Total      :    1,338,219 (2230 DPS) Casts:  349   Miss:   2 ( 0.7%)
+Shadow Bolt:      700,626 (52.4%)    Casts:  178  Crits:  46 (25.8%)
+Immolate   :      127,438 ( 9.5%)    Casts:   39  Crits:   5 (12.8%)
+Corruption :      184,548 (13.8%)    Casts:   32
+Curse Doom :      108,792 ( 8.1%)    Casts:    9
+Curse Agony:       13,488 ( 1.0%)    Casts:    3
+Siphon Life:       45,323 ( 3.4%)    Casts:   19
+Unstable Af:      135,797 (10.1%)    Casts:   31
+Firebolt   :      158,004 (11.8%)    Casts:  399
+Lifetap    :        1,776 (MPT)      Casts:   69  (82.8s)
+
+41/3/17 Afflic/UA Spec - Imaginary - 80% ISB ===============================
+
+Total      :    1,625,865 (2709 DPS) Casts:  349   Miss:   3 ( 1.0%)
+Shadow Bolt:      907,993 (55.8%)    Casts:  187  Crits:  72 (38.5%)
+Immolate   :      155,630 ( 9.6%)    Casts:   37  Crits:  17 (45.9%)
+Corruption :      212,738 (13.1%)    Casts:   32
+Curse Doom :      124,665 ( 7.7%)    Casts:    9
+Curse Agony:       15,605 ( 1.0%)    Casts:    3
+Siphon Life:       51,230 ( 3.2%)    Casts:   19
+Unstable Af:      158,508 ( 9.7%)    Casts:   31
+Firebolt   :      158,004 ( 9.7%)    Casts:  399
+Lifetap    :        2,016 (MPT)      Casts:   62  (73.8s)

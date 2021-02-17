@@ -1,0 +1,99 @@
+Gear Level 1 : Quest Greens - Talent Analysis
+=============================================
+
+  No Talents 0/0/0 ................. 717 DPS
+  Shadowbolt 0/21/40 ............... 781 DPS
+  SM/DS/Bane 30/21/10 .............. 837 DPS
+  UA 41/3/17 ....................... 942 DPS
+  SM/Ruin 31/3/27 .................. 1046 DPS
+  SL/Ruin 6/34/21 .................. 1088 DPS
+  DT/Ruin 1/39/21 .................. 1089 DPS
+  Felguard 5/41/15 ................. 1230 DPS
+
+-------------------- ( No Talents ) -------------------- 
+
+Total      :      430,779 ( 717 DPS) Casts:  277   Miss:  28 (14.3%)
+Shadow Bolt:      137,628 (31.9%)    Casts:   98  Crits:   7 ( 7.1%)
+Immolate   :       61,431 (14.3%)    Casts:   44  Crits:   5 (11.4%)
+Corruption :       67,438 (15.7%)    Casts:   34
+Curse Doom :       69,028 (16.0%)    Casts:   17
+Curse Agony:        4,059 ( 0.9%)    Casts:    3
+Firebolt   :       91,195 (21.2%)    Casts:  299
+Lifetap    :          947 (MPT)      Casts:   81  (121.5s)
+
+-------------------- ( Affliction 41/3/17 ) -------------------- 
+
+Total      :      565,567 ( 942 DPS) Casts:  301   Miss:  38 (17.7%)
+Shadow Bolt:      149,728 (26.5%)    Casts:   97  Crits:  20 (20.6%)
+Immolate   :       62,848 (11.1%)    Casts:   47  Crits:   4 ( 8.5%)
+Corruption :       87,978 (15.6%)    Casts:   36
+Curse Doom :       72,830 (12.9%)    Casts:   11
+Curse Agony:        7,833 ( 1.4%)    Casts:    3
+Siphon Life:       26,346 ( 4.7%)    Casts:   21
+Unstable Af:       74,289 (13.1%)    Casts:   35
+Firebolt   :      158,004 (27.9%)    Casts:  399
+Lifetap    :        1,136 (MPT)      Casts:   86  (129.0s)
+
+-------------------- ( SM/DS/Bane 30/21/10 ) --------------------
+
+Total      :      502,318 ( 837 DPS) Casts:  310   Miss:  38 (16.5%)
+Shadow Bolt:      243,621 (48.5%)    Casts:  135  Crits:  12 ( 8.9%)
+Immolate   :       62,410 (12.4%)    Casts:   46  Crits:   2 ( 4.3%)
+Corruption :      100,788 (20.1%)    Casts:   36
+Curse Doom :       86,439 (17.2%)    Casts:   11
+Curse Agony:        9,060 ( 1.8%)    Casts:    3
+Lifetap    :        1,154 (MPT)      Casts:   79  (118.5s)
+
+-------------------- ( SM/Ruin 31/3/27 ) --------------------
+
+Total      :      627,774 (1046 DPS) Casts:  308   Miss:  34 (14.9%)
+Shadow Bolt:      219,076 (34.9%)    Casts:  139  Crits:  14 (10.1%)
+Immolate   :       73,558 (11.7%)    Casts:   40  Crits:   7 (17.5%)
+Corruption :       89,280 (14.2%)    Casts:   34
+Curse Doom :       75,928 (12.1%)    Casts:   13
+Curse Agony:        5,943 ( 0.9%)    Casts:    2
+Firebolt   :      163,989 (26.1%)    Casts:  399
+Lifetap    :        1,136 (MPT)      Casts:   80  (120.0s)
+
+-------------------- ( Felguard 5/41/15 ) -------------------- 
+
+Total      :      738,089 (1230 DPS) Casts:  313   Miss:  40 (17.9%)
+Shadow Bolt:      218,743 (29.6%)    Casts:  131  Crits:  25 (19.1%)
+Immolate   :       75,995 (10.3%)    Casts:   43  Crits:   7 (16.3%)
+Corruption :       80,901 (11.0%)    Casts:   37
+Curse Doom :       77,076 (10.4%)    Casts:    9
+Curse Agony:        6,971 ( 0.9%)    Casts:    4
+FG Melee   :      215,434 (29.2%)    Casts:  299
+FG Cleave  :       62,969 ( 8.5%)    Casts:   75
+Lifetap    :          995 (MPT)      Casts:   89  (133.5s)
+
+-------------------- ( DT/Ruin 1/39/21 ) -------------------- 
+
+Total      :      653,720 (1089 DPS) Casts:  311   Miss:  36 (16.2%)
+Shadow Bolt:      225,738 (34.5%)    Casts:  131  Crits:  18 (13.7%)
+Immolate   :       71,019 (10.9%)    Casts:   45  Crits:   4 ( 8.9%)
+Corruption :       78,260 (12.0%)    Casts:   35
+Curse Doom :       73,410 (11.2%)    Casts:    9
+Curse Agony:        6,192 ( 0.9%)    Casts:    2
+Firebolt   :      199,101 (30.5%)    Casts:  399
+Lifetap    :          995 (MPT)      Casts:   89  (133.5s)
+
+-------------------- ( SL/Ruin 6/34/21 ) -------------------- 
+
+Total      :      653,381 (1088 DPS) Casts:  309   Miss:  31 (13.7%)
+Shadow Bolt:      229,049 (35.1%)    Casts:  137  Crits:  14 (10.2%)
+Immolate   :       72,313 (11.1%)    Casts:   41  Crits:   3 ( 7.3%)
+Corruption :       75,788 (11.6%)    Casts:   33
+Curse Doom :       71,881 (11.0%)    Casts:   14
+Curse Agony:        5,249 ( 0.8%)    Casts:    2
+Firebolt   :      199,101 (30.5%)    Casts:  399
+Lifetap    :        1,094 (MPT)      Casts:   82  (123.0s)
+
+-------------------- ( Shadowbolt 0/21/40 ) -------------------- 
+
+Total      :      469,034 ( 781 DPS) Casts:  300   Miss:  40 (18.9%)
+Shadow Bolt:      302,480 (64.5%)    Casts:  151  Crits:  23 (15.2%)
+Immolate   :       79,258 (16.9%)    Casts:   47  Crits:   5 (10.6%)
+Curse Doom :       80,222 (17.1%)    Casts:   11
+Curse Agony:        7,074 ( 1.5%)    Casts:    3
+Lifetap    :          962 (MPT)      Casts:   88  (132.0s)

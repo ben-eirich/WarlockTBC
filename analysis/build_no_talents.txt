@@ -1,0 +1,70 @@
+NO TALENT POINTS SPENT. RAID SCENARIO.
+
+Gear Level : Naked ==================================================
+
+Total      :      287,978 ( 479 DPS) Casts:  284   Miss:  27 (15.0%)
+Shadow Bolt:       70,540 (24.5%)    Casts:   91  Crits:   3 ( 3.3%)
+Immolate   :       30,702 (10.7%)    Casts:   42  Crits:   1 ( 2.4%)
+Corruption :       40,356 (14.0%)    Casts:   33
+Curse Doom :       51,480 (17.9%)    Casts:   11
+Curse Agony:        3,705 ( 1.3%)    Casts:    3
+Firebolt   :       91,195 (31.7%)    Casts:  299
+Lifetap    :          680 (MPT)      Casts:  104  (156.0s)
+
+Gear Level : Greens =================================================
+
+Total      :      415,592 ( 692 DPS) Casts:  272   Miss:  28 (14.5%)
+Shadow Bolt:      130,574 (31.4%)    Casts:  104  Crits:   7 ( 6.7%)
+Immolate   :       60,425 (14.5%)    Casts:   43  Crits:   1 ( 2.3%)
+Corruption :       65,504 (15.8%)    Casts:   31
+Curse Doom :       63,396 (15.3%)    Casts:   12
+Curse Agony:        4,498 ( 1.1%)    Casts:    3
+Firebolt   :       91,195 (21.9%)    Casts:  299
+Lifetap    :          947 (MPT)      Casts:   79  (118.5s)
+
+Gear Level : Pre-Raid BIS-ish =======================================
+
+Total      :      637,374 (1062 DPS) Casts:  263   Miss:   8 ( 4.0%)
+Shadow Bolt:      276,213 (43.3%)    Casts:  124  Crits:  12 ( 9.7%)
+Immolate   :       84,404 (13.2%)    Casts:   35  Crits:   4 (11.4%)
+Corruption :       99,176 (15.6%)    Casts:   31
+Curse Doom :       78,786 (12.4%)    Casts:    9
+Curse Agony:        7,600 ( 1.2%)    Casts:    3
+Firebolt   :       91,195 (14.3%)    Casts:  299
+Lifetap    :        1,291 (MPT)      Casts:   61  (89.7s)
+
+Gear Level : Tier 5 =================================================
+
+Total      :      693,386 (1155 DPS) Casts:  261   Miss:   4 ( 2.0%)
+Shadow Bolt:      314,607 (45.4%)    Casts:  126  Crits:  23 (18.3%)
+Immolate   :       92,369 (13.3%)    Casts:   34  Crits:   9 (26.5%)
+Corruption :      105,635 (15.2%)    Casts:   31
+Curse Doom :       81,612 (11.8%)    Casts:    9
+Curse Agony:        7,968 ( 1.1%)    Casts:    3
+Firebolt   :       91,195 (13.2%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+Gear Level : Ultimate ===============================================
+
+Total      :      927,387 (1545 DPS) Casts:  310   Miss:   1 ( 0.4%)
+Shadow Bolt:      509,534 (54.9%)    Casts:  167  Crits:  34 (20.4%)
+Immolate   :      118,426 (12.8%)    Casts:   36  Crits:   7 (19.4%)
+Corruption :      112,041 (12.1%)    Casts:   30
+Curse Doom :       87,273 ( 9.4%)    Casts:    9
+Curse Agony:        8,918 ( 1.0%)    Casts:    3
+Firebolt   :       91,195 ( 9.8%)    Casts:  299
+Lifetap    :        1,480 (MPT)      Casts:   65  (78.0s)
+
+Gear Level : Unobtainable ============================================
+
+Total      :    1,127,011 (1878 DPS) Casts:  310   Miss:   1 ( 0.4%)
+Shadow Bolt:      645,295 (57.3%)    Casts:  171  Crits:  59 (34.5%)
+Immolate   :      149,838 (13.3%)    Casts:   37  Crits:  11 (29.7%)
+Corruption :      134,139 (11.9%)    Casts:   31
+Curse Doom :       96,228 ( 8.5%)    Casts:    9
+Curse Agony:       10,316 ( 0.9%)    Casts:    3
+Firebolt   :       91,195 ( 8.1%)    Casts:  299
+Lifetap    :        1,680 (MPT)      Casts:   59  (70.2s)
+
+*** TODO: Re-run this once ISB is simmed and pet damage is improved.
+And also when we sort out our T4/T5 gear-sets.

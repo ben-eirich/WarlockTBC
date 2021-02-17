@@ -1,0 +1,43 @@
+0/3 Empowered Corruption ============================================
+
+Total      :      693,223 (1155 DPS) Casts:  261   Miss:   4 ( 2.0%)
+Shadow Bolt:      318,387 (45.9%)    Casts:  126  Crits:  24 (19.0%)
+Immolate   :       88,924 (12.8%)    Casts:   35  Crits:   4 (11.4%)
+Corruption :      105,635 (15.2%)    Casts:   31
+Curse Doom :       81,612 (11.8%)    Casts:    9
+Curse Agony:        7,470 ( 1.1%)    Casts:    2
+Firebolt   :       91,195 (13.2%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+1/3 Empowered Corruption ============================================
+
+Total      :      700,476 (1167 DPS) Casts:  262   Miss:   3 ( 1.5%)
+Shadow Bolt:      317,176 (45.3%)    Casts:  125  Crits:  21 (16.8%)
+Immolate   :       89,694 (12.8%)    Casts:   36  Crits:   6 (16.7%)
+Corruption :      112,665 (16.1%)    Casts:   31
+Curse Doom :       81,612 (11.7%)    Casts:    9
+Curse Agony:        8,134 ( 1.2%)    Casts:    3
+Firebolt   :       91,195 (13.0%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+2/3 Empowered Corruption ============================================
+
+Total      :      707,675 (1179 DPS) Casts:  261   Miss:   6 ( 3.0%)
+Shadow Bolt:      314,764 (44.5%)    Casts:  126  Crits:  29 (23.0%)
+Immolate   :       92,754 (13.1%)    Casts:   34  Crits:  10 (29.4%)
+Corruption :      119,880 (16.9%)    Casts:   31
+Curse Doom :       81,612 (11.5%)    Casts:   10
+Curse Agony:        7,470 ( 1.1%)    Casts:    2
+Firebolt   :       91,195 (12.9%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+3/3 Empowered Corruption ============================================
+
+Total      :      714,595 (1190 DPS) Casts:  261   Miss:   3 ( 1.5%)
+Shadow Bolt:      316,081 (44.2%)    Casts:  126  Crits:  22 (17.5%)
+Immolate   :       90,829 (12.7%)    Casts:   34  Crits:   5 (14.7%)
+Corruption :      126,910 (17.8%)    Casts:   31
+Curse Doom :       81,612 (11.4%)    Casts:    9
+Curse Agony:        7,968 ( 1.1%)    Casts:    3
+Firebolt   :       91,195 (12.8%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)

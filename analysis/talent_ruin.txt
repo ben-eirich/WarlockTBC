@@ -1,0 +1,24 @@
+0/1 Ruin =================================================
+
+Total      :      636,907 (1061 DPS) Casts:  264   Miss:  12 ( 5.9%)
+Shadow Bolt:      274,894 (43.2%)    Casts:  122  Crits:  21 (17.2%)
+Immolate   :       83,639 (13.1%)    Casts:   37  Crits:   1 ( 2.7%)
+Corruption :      100,793 (15.8%)    Casts:   32
+Curse Doom :       78,786 (12.4%)    Casts:    9
+Curse Agony:        7,600 ( 1.2%)    Casts:    3
+Firebolt   :       91,195 (14.3%)    Casts:  299
+Lifetap    :        1,291 (MPT)      Casts:   61  (89.7s)
+
+1/1 Ruin =================================================
+
+Total      :      655,305 (1092 DPS) Casts:  263   Miss:   8 ( 3.9%)
+Shadow Bolt:      293,618 (44.8%)    Casts:  123  Crits:  14 (11.4%)
+Immolate   :       83,694 (12.8%)    Casts:   36  Crits:   2 ( 5.6%)
+Corruption :      100,254 (15.3%)    Casts:   32
+Curse Doom :       78,786 (12.0%)    Casts:    9
+Curse Agony:        7,758 ( 1.2%)    Casts:    3
+Firebolt   :       91,195 (13.9%)    Casts:  299
+Lifetap    :        1,291 (MPT)      Casts:   60  (88.2s)
+
+The DPS benefit will be highly dependent on your other talent choices, & gear.
+This is "in a vacuum". Test specific scenarios for more relevant guidance.

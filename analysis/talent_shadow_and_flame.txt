@@ -1,0 +1,50 @@
+0/5 Shadow and Flame, In a Vacuum ==============================
+
+Total      :      603,034 (1005 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      273,881 (45.4%)    Casts:  119  Crits:  45 (37.8%)
+Immolate   :       90,322 (15.0%)    Casts:   36  Crits:  20 (55.6%)
+Corruption :       85,140 (14.1%)    Casts:   31
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        6,950 ( 1.2%)    Casts:    3
+Firebolt   :       77,441 (12.8%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+5/5 Shadow and Flame, In a Vacuum ==============================
+
+Total      :      640,316 (1067 DPS) Casts:  259   Miss:   0 ( 0.0%)
+Shadow Bolt:      311,831 (48.7%)    Casts:  119  Crits:  44 (37.0%)
+Immolate   :       89,654 (14.0%)    Casts:   36  Crits:  18 (50.0%)
+Corruption :       85,140 (13.3%)    Casts:   31
+Curse Doom :       69,300 (10.8%)    Casts:    9
+Curse Agony:        6,950 ( 1.1%)    Casts:    3
+Firebolt   :       77,441 (12.1%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+
+0/5 Shadow and Flame, With Bane and Ruin =======================
+
+Total      :      728,590 (1214 DPS) Casts:  294   Miss:   4 ( 1.8%)
+Shadow Bolt:      394,061 (54.1%)    Casts:  144  Crits:  60 (41.7%)
+Immolate   :       98,341 (13.5%)    Casts:   37  Crits:  19 (51.4%)
+Corruption :       82,775 (11.4%)    Casts:   32
+Curse Doom :       69,300 ( 9.5%)    Casts:    9
+Curse Agony:        6,672 ( 0.9%)    Casts:    3
+Firebolt   :       77,441 (10.6%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   69  (103.5s)
+
+5/5 Shadow and Flame, With Bane and Ruin =======================
+
+Total      :      781,398 (1302 DPS) Casts:  294   Miss:   2 ( 0.9%)
+Shadow Bolt:      448,650 (57.4%)    Casts:  145  Crits:  59 (40.7%)
+Immolate   :       94,668 (12.1%)    Casts:   38  Crits:  13 (34.2%)
+Corruption :       84,667 (10.8%)    Casts:   30
+Curse Doom :       69,300 ( 8.9%)    Casts:    9
+Curse Agony:        6,672 ( 0.9%)    Casts:    3
+Firebolt   :       77,441 ( 9.9%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   69  (103.5s)
+
+================================================================
+
+Obviously you could take this further to do a full 0/21/40 spec with Sac,
+with and without Shadow and Flame. You could do a bunch of specific spec comparisons.
+I usually do these talent analysis in a vacuum, whole spec comparisons are a different thing.

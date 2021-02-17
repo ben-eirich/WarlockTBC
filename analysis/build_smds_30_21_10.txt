@@ -1,0 +1,59 @@
+SM/DS 30/21/10 - Naked - 20% ISB =====================================
+
+Total      :      297,905 ( 496 DPS) Casts:  319   Miss:  32 (14.8%)
+Shadow Bolt:      132,231 (44.4%)    Casts:  123  Crits:   4 ( 3.3%)
+Immolate   :       33,430 (11.2%)    Casts:   42  Crits:   2 ( 4.8%)
+Corruption :       58,830 (19.7%)    Casts:   36
+Curse Doom :       67,426 (22.6%)    Casts:   11
+Curse Agony:        5,988 ( 2.0%)    Casts:    4
+Lifetap    :          834 (MPT)      Casts:  103  (154.5s)
+
+SM/DS 30/21/10 - Greens - 30% ISB =====================================
+
+Total      :      502,355 ( 837 DPS) Casts:  309   Miss:  36 (15.7%)
+Shadow Bolt:      237,605 (47.3%)    Casts:  137  Crits:   9 ( 6.6%)
+Immolate   :       64,644 (12.9%)    Casts:   42  Crits:   0 ( 0.0%)
+Corruption :      103,199 (20.5%)    Casts:   37
+Curse Doom :       88,240 (17.6%)    Casts:   12
+Curse Agony:        8,667 ( 1.7%)    Casts:    2
+Lifetap    :        1,154 (MPT)      Casts:   79  (118.5s)
+
+SM/DS 30/21/10 - Pre-Raid - 40% ISB ===================================
+
+Total      :      876,129 (1460 DPS) Casts:  304   Miss:  13 ( 5.3%)
+Shadow Bolt:      487,800 (55.7%)    Casts:  157  Crits:  19 (12.1%)
+Immolate   :       97,041 (11.1%)    Casts:   41  Crits:   6 (14.6%)
+Corruption :      171,531 (19.6%)    Casts:   33
+Curse Doom :      107,211 (12.2%)    Casts:    9
+Curse Agony:       12,546 ( 1.4%)    Casts:    3
+Lifetap    :        1,567 (MPT)      Casts:   61  (89.7s)
+
+SM/DS 30/21/10 - Tier 5 - 60% ISB =====================================
+
+Total      :    1,001,067 (1668 DPS) Casts:  302   Miss:   4 ( 1.6%)
+Shadow Bolt:      581,260 (58.1%)    Casts:  160  Crits:  27 (16.9%)
+Immolate   :      101,700 (10.2%)    Casts:   38  Crits:   7 (18.4%)
+Corruption :      184,272 (18.4%)    Casts:   34
+Curse Doom :      120,269 (12.0%)    Casts:    9
+Curse Agony:       13,566 ( 1.4%)    Casts:    3
+Lifetap    :        1,642 (MPT)      Casts:   58  (85.3s)
+
+SM/DS 30/21/10 - Ultimate - 75% ISB =====================================
+
+Total      :    1,430,787 (2384 DPS) Casts:  358   Miss:   1 ( 0.3%)
+Shadow Bolt:      940,481 (65.7%)    Casts:  211  Crits:  41 (19.4%)
+Immolate   :      128,036 ( 8.9%)    Casts:   37  Crits:  12 (32.4%)
+Corruption :      219,896 (15.4%)    Casts:   33
+Curse Doom :      126,072 ( 8.8%)    Casts:    9
+Curse Agony:       16,302 ( 1.1%)    Casts:    3
+Lifetap    :        1,794 (MPT)      Casts:   65  (78.0s)
+
+SM/DS 30/21/10 - Imaginary - 80% ISB =====================================
+
+Total      :    1,782,806 (2971 DPS) Casts:  358   Miss:   2 ( 0.7%)
+Shadow Bolt:    1,213,434 (68.1%)    Casts:  218  Crits:  72 (33.0%)
+Immolate   :      156,169 ( 8.8%)    Casts:   38  Crits:  10 (26.3%)
+Corruption :      248,150 (13.9%)    Casts:   32
+Curse Doom :      147,069 ( 8.2%)    Casts:    9
+Curse Agony:       17,984 ( 1.0%)    Casts:    3
+Lifetap    :        2,034 (MPT)      Casts:   58  (69.0s)

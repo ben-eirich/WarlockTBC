@@ -1,0 +1,56 @@
+Imp Damage at various levels of Talent Buffage.
+
+0/3 Improved Imp, 0/2 Improved Firebolt, 0/5 Unholy Power ======================
+
+Total      :      603,123 (1005 DPS) Casts:  259   Miss:   3 ( 1.5%)
+Shadow Bolt:      275,861 (45.7%)    Casts:  119  Crits:  49 (41.2%)
+Immolate   :       89,655 (14.9%)    Casts:   37  Crits:  17 (45.9%)
+Corruption :       84,194 (14.0%)    Casts:   30
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        6,672 ( 1.1%)    Casts:    3
+Firebolt   :       77,441 (12.8%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+3/3 Improved Imp, 0/2 Improved Firebolt, 0/5 Unholy Power ======================
+
+Total      :      625,888 (1043 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      274,659 (43.9%)    Casts:  119  Crits:  46 (38.7%)
+Immolate   :       89,987 (14.4%)    Casts:   36  Crits:  20 (55.6%)
+Corruption :       84,667 (13.5%)    Casts:   31
+Curse Doom :       69,300 (11.1%)    Casts:    9
+Curse Agony:        6,811 ( 1.1%)    Casts:    3
+Firebolt   :      100,464 (16.1%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+3/3 Improved Imp, 2/2 Improved Firebolt, 0/5 Unholy Power ======================
+
+Total      :      659,689 (1099 DPS) Casts:  260   Miss:   4 ( 2.0%)
+Shadow Bolt:      275,723 (41.8%)    Casts:  119  Crits:  53 (44.5%)
+Immolate   :       88,651 (13.4%)    Casts:   37  Crits:  16 (43.2%)
+Corruption :       85,140 (12.9%)    Casts:   31
+Curse Doom :       69,300 (10.5%)    Casts:    9
+Curse Agony:        6,811 ( 1.0%)    Casts:    3
+Firebolt   :      134,064 (20.3%)    Casts:  399
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s
+
+3/3 Improved Imp, 0/2 Improved Firebolt, 5/5 Unholy Power ======================
+
+Total      :      645,945 (1076 DPS) Casts:  260   Miss:   2 ( 1.0%)
+Shadow Bolt:      274,544 (42.5%)    Casts:  119  Crits:  48 (40.3%)
+Immolate   :       89,653 (13.9%)    Casts:   37  Crits:  19 (51.4%)
+Corruption :       85,140 (13.2%)    Casts:   31
+Curse Doom :       69,300 (10.7%)    Casts:    9
+Curse Agony:        6,811 ( 1.1%)    Casts:    3
+Firebolt   :      120,497 (18.7%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+3/3 Improved Imp, 2/2 Improved Firebolt, 5/5 Unholy Power ======================
+
+Total      :      686,535 (1144 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      277,782 (40.5%)    Casts:  119  Crits:  49 (41.2%)
+Immolate   :       87,985 (12.8%)    Casts:   37  Crits:  12 (32.4%)
+Corruption :       83,721 (12.2%)    Casts:   30
+Curse Doom :       69,300 (10.1%)    Casts:    9
+Curse Agony:        6,950 ( 1.0%)    Casts:    3
+Firebolt   :      160,797 (23.4%)    Casts:  399
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)

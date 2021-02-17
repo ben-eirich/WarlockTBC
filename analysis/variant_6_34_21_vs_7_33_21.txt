@@ -1,0 +1,24 @@
+6_34_21 Tier5
+
+Total      :    1,112,128 (1853 DPS) Casts:  303   Miss:   7 ( 2.9%)
+Shadow Bolt:      562,437 (50.6%)    Casts:  158  Crits:  40 (25.3%)
+Immolate   :      114,507 (10.3%)    Casts:   38  Crits:   7 (18.4%)
+Corruption :      132,810 (11.9%)    Casts:   34
+Curse Doom :       93,810 ( 8.4%)    Casts:    9
+Curse Agony:        9,463 ( 0.9%)    Casts:    3
+Firebolt   :      199,101 (17.9%)    Casts:  399
+Lifetap    :        1,542 (MPT)      Casts:   61  (89.7s)
+
+7_33_21 Tier5 - 2/2 Imp Lifetap - 2/3 Demonic Knowledge
+
+Total      :    1,111,027 (1851 DPS) Casts:  301   Miss:   4 ( 1.6%)
+Shadow Bolt:      565,382 (50.9%)    Casts:  161  Crits:  38 (23.6%)
+Immolate   :      111,249 (10.0%)    Casts:   37  Crits:   6 (16.2%)
+Corruption :      130,566 (11.8%)    Casts:   34
+Curse Doom :       95,194 ( 8.6%)    Casts:    9
+Curse Agony:        9,535 ( 0.9%)    Casts:    3
+Firebolt   :      199,101 (17.9%)    Casts:  399
+Lifetap    :        1,669 (MPT)      Casts:   57  (83.8s)
+
+
+/shrug, its pretty much a wash.

@@ -1,0 +1,67 @@
+0/5 Bane ==========================================
+
+Total      :      585,908 ( 976 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      260,095 (44.4%)    Casts:  119  Crits:  31 (26.1%)
+Immolate   :       86,982 (14.8%)    Casts:   36  Crits:  10 (27.8%)
+Corruption :       85,140 (14.5%)    Casts:   31
+Curse Doom :       69,300 (11.8%)    Casts:    9
+Curse Agony:        6,950 ( 1.2%)    Casts:    3
+Firebolt   :       77,441 (13.2%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+1/5 Bane ==========================================
+
+Total      :      595,234 ( 992 DPS) Casts:  265   Miss:   1 ( 0.5%)
+Shadow Bolt:      271,687 (45.6%)    Casts:  124  Crits:  33 (26.6%)
+Immolate   :       81,627 (13.7%)    Casts:   35  Crits:  11 (31.4%)
+Corruption :       88,924 (14.9%)    Casts:   32
+Curse Doom :       69,300 (11.6%)    Casts:   10
+Curse Agony:        6,255 ( 1.1%)    Casts:    2
+Firebolt   :       77,441 (13.0%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   62  (93.0s)
+
+2/5 Bane ==========================================
+
+Total      :      603,076 (1005 DPS) Casts:  270   Miss:   2 ( 1.0%)
+Shadow Bolt:      285,532 (47.3%)    Casts:  131  Crits:  37 (28.2%)
+Immolate   :       83,970 (13.9%)    Casts:   35  Crits:  10 (28.6%)
+Corruption :       81,829 (13.6%)    Casts:   29
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        5,004 ( 0.8%)    Casts:    2
+Firebolt   :       77,441 (12.8%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   64  (96.0s)
+
+3/5 Bane ==========================================
+
+Total      :      615,591 (1025 DPS) Casts:  278   Miss:   2 ( 0.9%)
+Shadow Bolt:      296,738 (48.2%)    Casts:  135  Crits:  35 (25.9%)
+Immolate   :       83,972 (13.6%)    Casts:   36  Crits:   8 (22.2%)
+Corruption :       82,302 (13.4%)    Casts:   31
+Curse Doom :       69,300 (11.3%)    Casts:    9
+Curse Agony:        5,838 ( 0.9%)    Casts:    2
+Firebolt   :       77,441 (12.6%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   65  (97.5s)
+
+4/5 Bane ==========================================
+
+Total      :      630,324 (1050 DPS) Casts:  286   Miss:   1 ( 0.5%)
+Shadow Bolt:      305,123 (48.4%)    Casts:  139  Crits:  35 (25.2%)
+Immolate   :       86,648 (13.7%)    Casts:   37  Crits:   9 (24.3%)
+Corruption :       85,140 (13.5%)    Casts:   31
+Curse Doom :       69,300 (11.0%)    Casts:    9
+Curse Agony:        6,672 ( 1.1%)    Casts:    3
+Firebolt   :       77,441 (12.3%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   67  (100.5s)
+
+5/5 Bane ==========================================
+
+Total      :      644,684 (1074 DPS) Casts:  295   Miss:   0 ( 0.0%)
+Shadow Bolt:      318,477 (49.4%)    Casts:  143  Crits:  41 (28.7%)
+Immolate   :       87,654 (13.6%)    Casts:   37  Crits:   5 (13.5%)
+Corruption :       85,140 (13.2%)    Casts:   31
+Curse Doom :       69,300 (10.7%)    Casts:   11
+Curse Agony:        6,672 ( 1.0%)    Casts:    3
+Firebolt   :       77,441 (12.0%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   70  (105.0s)
+
+******* No surprise, Bane is a ridiculously good talent. Don't leave home without it.

@@ -1,0 +1,75 @@
+0/5 Improved Immolate, In a Vacuum ===================================
+
+Total      :      603,036 (1005 DPS) Casts:  260   Miss:   2 ( 1.0%)
+Shadow Bolt:      275,496 (45.7%)    Casts:  118  Crits:  49 (41.5%)
+Immolate   :       89,321 (14.8%)    Casts:   38  Crits:  16 (42.1%)
+Corruption :       84,667 (14.0%)    Casts:   30
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        6,811 ( 1.1%)    Casts:    4
+Firebolt   :       77,441 (12.8%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+5/5 Improved Immolate, In a Vacuum ===================================
+
+Total      :      610,431 (1017 DPS) Casts:  259   Miss:   3 ( 1.5%)
+Shadow Bolt:      274,476 (45.0%)    Casts:  119  Crits:  50 (42.0%)
+Immolate   :       97,124 (15.9%)    Casts:   36  Crits:  18 (50.0%)
+Corruption :       85,140 (13.9%)    Casts:   31
+Curse Doom :       69,300 (11.4%)    Casts:    9
+Curse Agony:        6,950 ( 1.1%)    Casts:    3
+Firebolt   :       77,441 (12.7%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+
+0/5 Improved Immolate, With Bane and Ruin ===================================
+
+Total      :      728,851 (1214 DPS) Casts:  294   Miss:   1 ( 0.4%)
+Shadow Bolt:      393,291 (54.0%)    Casts:  145  Crits:  58 (40.0%)
+Immolate   :       97,007 (13.3%)    Casts:   37  Crits:  16 (43.2%)
+Corruption :       85,140 (11.7%)    Casts:   31
+Curse Doom :       69,300 ( 9.5%)    Casts:    9
+Curse Agony:        6,672 ( 0.9%)    Casts:    3
+Firebolt   :       77,441 (10.6%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   69  (103.5s)
+
+5/5 Improved Immolate, With Bane and Ruin ===================================
+
+Total      :      736,674 (1227 DPS) Casts:  294   Miss:   2 ( 0.9%)
+Shadow Bolt:      389,676 (52.9%)    Casts:  144  Crits:  57 (39.6%)
+Immolate   :      107,972 (14.7%)    Casts:   38  Crits:  19 (50.0%)
+Corruption :       85,613 (11.6%)    Casts:   31
+Curse Doom :       69,300 ( 9.4%)    Casts:    9
+Curse Agony:        6,672 ( 0.9%)    Casts:    3
+Firebolt   :       77,441 (10.5%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   69  (103.5s)
+
+
+0/5 Improved Immolate, With Bane, Ruin, Emberstorm, and Shadow and Flame ===
+
+Total      :      799,064 (1331 DPS) Casts:  293   Miss:   1 ( 0.4%)
+Shadow Bolt:      451,382 (56.5%)    Casts:  145  Crits:  60 (41.4%)
+Immolate   :      104,019 (13.0%)    Casts:   37  Crits:  14 (37.8%)
+Corruption :       82,775 (10.4%)    Casts:   31
+Curse Doom :       69,300 ( 8.7%)    Casts:    9
+Curse Agony:        6,672 ( 0.8%)    Casts:    2
+Firebolt   :       84,916 (10.6%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   69  (103.5s)
+
+5/5 Improved Immolate, With Bane, Ruin, Emberstorm, and Shadow and Flame ===
+
+Total      :      808,770 (1347 DPS) Casts:  294   Miss:   2 ( 0.9%)
+Shadow Bolt:      446,466 (55.2%)    Casts:  145  Crits:  59 (40.7%)
+Immolate   :      116,276 (14.4%)    Casts:   37  Crits:  16 (43.2%)
+Corruption :       85,140 (10.5%)    Casts:   31
+Curse Doom :       69,300 ( 8.6%)    Casts:    9
+Curse Agony:        6,672 ( 0.8%)    Casts:    3
+Firebolt   :       84,916 (10.5%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   69  (103.5s)
+
+=========================================================
+ + 12 DPS increase in a vacuum
+ + 13 DPS increase with Bane and Ruin
+ + 16 DPS increase with Bane, Ruin, Emberstorm, and Shadow and Flame
+
+ + Obviously theres some scaling but its never an enormous impact.
+   Throwing in all the other talents made less of a difference than I thought.

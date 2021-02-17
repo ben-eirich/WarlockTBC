@@ -1,0 +1,53 @@
+0/21/40 SB Spam w/ Immolate (No Corruption) - NAKED Gear level - 20% ISB ===============
+
+Total      :      263,416 ( 439 DPS) Casts:  311   Miss:  34 (17.3%)
+Shadow Bolt:      151,894 (57.7%)    Casts:  134  Crits:  17 (12.7%)
+Immolate   :       44,449 (16.9%)    Casts:   46  Crits:   4 ( 8.7%)
+Curse Doom :       62,631 (23.8%)    Casts:   13
+Curse Agony:        4,442 ( 1.7%)    Casts:    3
+Lifetap    :          695 (MPT)      Casts:  115  (172.5s)
+
+0/21/40 SB Spam w/ Immolate (No Corruption) - GREENS Gear level - 30% ISB ===============
+
+Total      :      468,893 ( 781 DPS) Casts:  299   Miss:  38 (18.0%)
+Shadow Bolt:      303,974 (64.8%)    Casts:  152  Crits:  24 (15.8%)
+Immolate   :       81,221 (17.3%)    Casts:   46  Crits:   7 (15.2%)
+Curse Doom :       76,948 (16.4%)    Casts:    9
+Curse Agony:        6,750 ( 1.4%)    Casts:    4
+Lifetap    :          962 (MPT)      Casts:   88  (132.0s)
+
+0/21/40 SB Spam w/ Immolate (No Corruption) - PRE-RAID Gear level - 40% ISB ===============
+
+Total      :      861,473 (1435 DPS) Casts:  293   Miss:  10 ( 4.5%)
+Shadow Bolt:      636,739 (73.9%)    Casts:  174  Crits:  36 (20.7%)
+Immolate   :      116,069 (13.5%)    Casts:   37  Crits:   7 (18.9%)
+Curse Doom :       99,497 (11.5%)    Casts:   11
+Curse Agony:        9,168 ( 1.1%)    Casts:    2
+Lifetap    :        1,306 (MPT)      Casts:   69  (101.4s)
+
+0/21/40 SB Spam w/ Immolate (No Corruption) - TIER 5 Gear level - 60% ISB ===============
+
+Total      :    1,010,422 (1684 DPS) Casts:  291   Miss:   5 ( 2.2%)
+Shadow Bolt:      769,729 (76.2%)    Casts:  177  Crits:  49 (27.7%)
+Immolate   :      119,936 (11.9%)    Casts:   37  Crits:   6 (16.2%)
+Curse Doom :      111,442 (11.0%)    Casts:    9
+Curse Agony:        9,315 ( 0.9%)    Casts:    2
+Lifetap    :        1,369 (MPT)      Casts:   66  (97.0s)
+
+0/21/40 SB Spam w/ Immolate (No Corruption) - Ultimate Gear  - 75% ISB ==================
+
+Total      :    1,517,713 (2529 DPS) Casts:  350   Miss:   4 ( 1.4%)
+Shadow Bolt:    1,227,440 (80.9%)    Casts:  224  Crits:  66 (29.5%)
+Immolate   :      163,834 (10.8%)    Casts:   40  Crits:  14 (35.0%)
+Curse Doom :      114,615 ( 7.6%)    Casts:    9
+Curse Agony:       11,824 ( 0.8%)    Casts:    3
+Lifetap    :        1,495 (MPT)      Casts:   74  (88.8s)
+
+0/21/40 SB Spam w/ Immolate (No Corruption) - Imaginary Gear  - 80% ISB ==================
+
+Total      :    1,998,907 (3331 DPS) Casts:  349   Miss:   3 ( 1.1%)
+Shadow Bolt:    1,644,099 (82.2%)    Casts:  232  Crits: 103 (44.4%)
+Immolate   :      209,180 (10.5%)    Casts:   38  Crits:  23 (60.5%)
+Curse Doom :      131,228 ( 6.6%)    Casts:    9
+Curse Agony:       14,400 ( 0.7%)    Casts:    3
+Lifetap    :        1,695 (MPT)      Casts:   67  (79.7s)

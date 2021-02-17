@@ -1,0 +1,31 @@
+Some Talent builds to evaluate:
+
+41/3/17 UA spec 
+https://tbcdb.com/talents/index.html?en&warlock&0502222510230115510310300000000000000000000505020500000000000000
+
+30/21/10 SM/DS/Bane spec
+https://tbcdb.com/talents/index.html?en&warlock&0502222510230105000002050030133210100000000505000000000000000000
+
+31/3/26 SM/Ruin spec
+https://tbcdb.com/talents/index.html?en&warlock&0502222510230115000000300000000000000000000505020501200410100000
+(&variant that grabs Malediction for Raid buff w/ fewer extra destro points)
+
+5/41/15 Felguard - Def suitable for dungeons, and maybe Kara?
+https://tbcdb.com/talents/index.html?en&warlock&0500000000000000000002052030133050101501351505000500000000000000
+
+0/40/21 DT/Ruin - run imp, lots of bonus damage and bonus crit, ruin, threat reduction
+variant: 1/39/21, makes corruption more valuable at the cost of 1% crit
+https://tbcdb.com/talents/index.html?en&warlock&0000000000000000000002322030133050102401350505020510200010000000
+
+6/34/21 ImpDemoRuin spec, big threat reduction, how I raided until I went full shadow destro
+Variant: 7/33/21
+https://tbcdb.com/talents/index.html?en&warlock&0500100000000000000002322030133050101401300505020510200010000000
+
+0/21/40 ShadowNuke spec
+https://tbcdb.com/talents/index.html?en&warlock&0000000000000000000002150030133200100000000505000512200510430250
+
+0/21/40 FireNuke spec
+https://tbcdb.com/talents/index.html?en&warlock&0000000000000000000002150030133200100000000505000512200510531050
+
+
+

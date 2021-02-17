@@ -1,0 +1,84 @@
+5/41/15 Felguard - NAKED - 20% ISB ===============================================
+
+Total      :      557,767 ( 929 DPS) Casts:  321   Miss:  30 (14.4%)
+Shadow Bolt:      121,074 (21.7%)    Casts:  119  Crits:  11 ( 9.2%)
+Immolate   :       41,388 ( 7.4%)    Casts:   38  Crits:   1 ( 2.6%)
+Corruption :       52,617 ( 9.4%)    Casts:   37
+Curse Doom :       60,416 (10.8%)    Casts:   11
+Curse Agony:        4,888 ( 0.9%)    Casts:    3
+FG Melee   :      215,119 (38.6%)    Casts:  299
+FG Cleave  :       62,265 (11.2%)    Casts:   75
+Lifetap    :          728 (MPT)      Casts:  113  (169.5s)
+
+5/41/15 Felguard - GREEN Gear - 30% ISB ==========================================
+
+Total      :      737,326 (1228 DPS) Casts:  312   Miss:  40 (17.9%)
+Shadow Bolt:      212,380 (28.8%)    Casts:  133  Crits:  18 (13.5%)
+Immolate   :       77,516 (10.5%)    Casts:   40  Crits:   7 (17.5%)
+Corruption :       81,423 (11.0%)    Casts:   39
+Curse Doom :       81,891 (11.1%)    Casts:    9
+Curse Agony:        6,891 ( 0.9%)    Casts:    3
+FG Melee   :      215,486 (29.2%)    Casts:  299
+FG Cleave  :       61,739 ( 8.4%)    Casts:   75
+Lifetap    :          995 (MPT)      Casts:   88  (132.0s)
+
+5/41/15 Felguard - PRE-RAID Gear - 40% ISB =======================================
+
+Total      :    1,067,337 (1778 DPS) Casts:  307   Miss:  11 ( 4.6%)
+Shadow Bolt:      447,455 (41.9%)    Casts:  153  Crits:  35 (22.9%)
+Immolate   :      114,168 (10.7%)    Casts:   39  Crits:  13 (33.3%)
+Corruption :      127,165 (11.9%)    Casts:   32
+Curse Doom :       93,190 ( 8.7%)    Casts:   10
+Curse Agony:        9,378 ( 0.9%)    Casts:    3
+FG Melee   :      214,681 (20.1%)    Casts:  299
+FG Cleave  :       61,300 ( 5.7%)    Casts:   75
+Lifetap    :        1,339 (MPT)      Casts:   70  (102.9s)
+
+5/41/15 Felguard - TIER 5 Gear - 60% ISB =======================================
+
+Total      :    1,177,841 (1963 DPS) Casts:  304   Miss:   1 ( 0.4%)
+Shadow Bolt:      530,714 (45.1%)    Casts:  157  Crits:  37 (23.6%)
+Immolate   :      118,885 (10.1%)    Casts:   37  Crits:  12 (32.4%)
+Corruption :      138,729 (11.8%)    Casts:   32
+Curse Doom :      102,600 ( 8.7%)    Casts:    9
+Curse Agony:       10,038 ( 0.9%)    Casts:    3
+FG Melee   :      214,315 (18.2%)    Casts:  299
+FG Cleave  :       62,560 ( 5.3%)    Casts:   75
+Lifetap    :        1,402 (MPT)      Casts:   66  (97.0s)
+
+5/41/15 Felguard - Ultimate Gear - 75% ISB =======================================
+
+Total      :    1,566,138 (2610 DPS) Casts:  361   Miss:   4 ( 1.4%)
+Shadow Bolt:      862,913 (55.1%)    Casts:  206  Crits:  66 (32.0%)
+Immolate   :      142,811 ( 9.1%)    Casts:   37  Crits:   8 (21.6%)
+Corruption :      159,500 (10.2%)    Casts:   32
+Curse Doom :      111,717 ( 7.1%)    Casts:    9
+Curse Agony:       11,051 ( 0.7%)    Casts:    3
+FG Melee   :      216,670 (13.8%)    Casts:  299
+FG Cleave  :       61,476 ( 3.9%)    Casts:   75
+Lifetap    :        1,528 (MPT)      Casts:   74  (88.8s)
+
+5/41/15 Felguard - Imaginary Gear - 80% ISB ======================================
+
+Total      :    1,882,243 (3137 DPS) Casts:  361   Miss:   1 ( 0.3%)
+Shadow Bolt:    1,106,852 (58.8%)    Casts:  214  Crits:  91 (42.5%)
+Immolate   :      182,494 ( 9.7%)    Casts:   37  Crits:  25 (67.6%)
+Corruption :      178,505 ( 9.5%)    Casts:   31
+Curse Doom :      122,895 ( 6.5%)    Casts:    9
+Curse Agony:       13,222 ( 0.7%)    Casts:    3
+FG Melee   :      215,869 (11.5%)    Casts:  299
+FG Cleave  :       62,406 ( 3.3%)    Casts:   75
+Lifetap    :        1,728 (MPT)      Casts:   67  (79.7s)
+
+=================================================================================
+
+NOTES:
+ + Pet damage sim is wrong/simplistic; re-sim later on (0 crits! also 0 misses..)
+ + There is zero pet scaling in the sim yet; not sure if there is in game or not...
+ + The reality is that in TBC raiding, you're going to have a very hard time keeping your 
+   FG alive in proper raids. FG raiding becomes very viable in Wrath. And then FG
+   is deleted from the game forever. (Okay, I cant remember if its in Cata or not.)
+ + However, FG is very strong in dungeons, and probably is servicable in Kara.
+ + Super strong at lower gear levels.
+
+

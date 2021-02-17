@@ -1,0 +1,48 @@
+5/5 Bane, No Immolate Pre-Cast
+
+Total      :      647,234 (1078 DPS) Casts:  293   Miss:   2 ( 0.9%)
+Shadow Bolt:      339,607 (52.5%)    Casts:  145  Crits:  63 (43.4%)
+Immolate   :       86,979 (13.4%)    Casts:   36  Crits:  13 (36.1%)
+Corruption :       82,775 (12.8%)    Casts:   31
+Curse Doom :       69,300 (10.7%)    Casts:   10
+Curse Agony:        6,672 ( 1.0%)    Casts:    2
+Firebolt   :       61,901 ( 9.6%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   69  (103.5s)
+
+5/5 Bane, With Immolate Pre-Cast
+
+Total      :      650,243 (1083 DPS) Casts:  294   Miss:   1 ( 0.4%)
+Shadow Bolt:      336,569 (51.8%)    Casts:  145  Crits:  57 (39.3%)
+Immolate   :       90,661 (13.9%)    Casts:   37  Crits:  13 (35.1%)
+Corruption :       85,140 (13.1%)    Casts:   31
+Curse Doom :       69,300 (10.7%)    Casts:    9
+Curse Agony:        6,672 ( 1.0%)    Casts:    3
+Firebolt   :       61,901 ( 9.5%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   69  (103.5s)
+
+==========================================================
+
+0/5 Bane, No Immolate Pre-Cast
+
+Total      :      584,998 ( 974 DPS) Casts:  258   Miss:   2 ( 1.0%)
+Shadow Bolt:      280,138 (47.9%)    Casts:  121  Crits:  50 (41.3%)
+Immolate   :       80,623 (13.8%)    Casts:   33  Crits:  13 (39.4%)
+Corruption :       86,086 (14.7%)    Casts:   31
+Curse Doom :       69,300 (11.8%)    Casts:    9
+Curse Agony:        6,950 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.6%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+0/5 Bane, With Immolate Pre-Cast
+
+Total      :      587,080 ( 978 DPS) Casts:  259   Miss:   2 ( 1.0%)
+Shadow Bolt:      273,547 (46.6%)    Casts:  119  Crits:  49 (41.2%)
+Immolate   :       91,661 (15.6%)    Casts:   37  Crits:  18 (48.6%)
+Corruption :       83,721 (14.3%)    Casts:   30
+Curse Doom :       69,300 (11.8%)    Casts:    9
+Curse Agony:        6,950 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.5%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+
+TLDR: about a 4 dps increase at this gear level to pre-cast immolate consistently.

@@ -1,0 +1,97 @@
+Warlock Builds... Preliminary Final Thoughts. 
+
+Gear 0 : Naked
+  Shadowbolt 0/21/40 ............... 438 DPS
+  No Talents 0/0/0 ................. 490 DPS
+  SM/DS/Bane 30/21/10 .............. 496 DPS
+  UA 41/3/17 ....................... 663 DPS
+  SM/Ruin 31/3/27 .................. 719 DPS
+  DT/Ruin 1/39/21 .................. 787 DPS
+  SL/Ruin 6/34/21 .................. 788 DPS
+  Felguard 5/41/15 ................. 930 DPS
+Gear 1 : Quest Greens
+  No Talents 0/0/0 ................. 717 DPS
+  Shadowbolt 0/21/40 ............... 781 DPS
+  SM/DS/Bane 30/21/10 .............. 837 DPS
+  UA 41/3/17 ....................... 942 DPS
+  SM/Ruin 31/3/27 .................. 1046 DPS
+  SL/Ruin 6/34/21 .................. 1088 DPS
+  DT/Ruin 1/39/21 .................. 1089 DPS
+  Felguard 5/41/15 ................. 1230 DPS
+Gear 2 : Pre-Raid BIS-ish, adding Enchants & Consumes
+  No Talents 0/0/0 ................. 1122 DPS
+  Shadowbolt 0/21/40 ............... 1433 DPS
+  UA 41/3/17 ....................... 1452 DPS
+  SM/DS/Bane 30/21/10 .............. 1460 DPS
+  SM/Ruin 31/3/27 .................. 1643 DPS
+  SL/Ruin 6/34/21 .................. 1647 DPS
+  DT/Ruin 1/39/21 .................. 1650 DPS
+  Felguard 5/41/15 ................. 1778 DPS
+Gear 3 : Tier5-ish
+  No Talents 0/0/0 ................. 1256 DPS
+  UA 41/3/17 ....................... 1622 DPS
+  SM/DS/Bane 30/21/10 .............. 1668 DPS
+  Shadowbolt 0/21/40 ............... 1683 DPS
+  SL/Ruin 6/34/21 .................. 1854 DPS
+  DT/Ruin 1/39/21 .................. 1856 DPS
+  SM/Ruin 31/3/27 .................. 1859 DPS
+  Felguard 5/41/15 ................. 1963 DPS
+Gear 4 : Ultimate T6
+  No Talents 0/0/0 ................. 1722 DPS
+  UA 41/3/17 ....................... 2240 DPS
+  SM/DS/Bane 30/21/10 .............. 2385 DPS
+  Shadowbolt 0/21/40 ............... 2529 DPS
+  SL/Ruin 6/34/21 .................. 2532 DPS
+  DT/Ruin 1/39/21 .................. 2552 DPS
+  SM/Ruin 31/3/27 .................. 2571 DPS
+  Felguard 5/41/15 ................. 2611 DPS
+Gear 5 : Imaginary
+  No Talents 0/0/0 ................. 2111 DPS
+  UA 41/3/17 ....................... 2723 DPS
+  SM/DS/Bane 30/21/10 .............. 2971 DPS
+  Felguard 5/41/15 ................. 3139 DPS  
+  SL/Ruin 6/34/21 .................. 3180 DPS
+  DT/Ruin 1/39/21 .................. 3196 DPS
+  SM/Ruin 31/3/27 .................. 3243 DPS
+  Shadowbolt 0/21/40 ............... 3332 DPS
+
+Lets make some observations:
+
+Q: Your sim is shit, these numbers arent accurate!
+A: Could be. Pet damage in particular will be revisited when the game releases.
+   Pet damage issues: Currently ZERO scaling. Tested on a level 70 warlock on a Wrath private server.
+   No pet misses! That overstates pet damage? But also don't sim pet crits, that understates and undervalues Demonic Tactics.
+   I don't currently have a way to play TBC, so more testing will happen when I have access to the game.
+   Most core spell damage formulas are pretty well established and correct, however.
+   ISB modelling is a weakness, because its an overall "uptime" value that needs you to adjust it to something relevant.
+
+Q: Are you seriously saying Felguard is the best spec? Your sim is shit!
+A: Again, could be. But the real problem with Felguard is that you won't be able to keep your pet alive during many raid fights.
+   At least, not without tons of micro-management. My assumption is that FG is real strong in dungeons, and might be usable in Kara.
+   But after that you probably can't keep FG alive and make the spec viable in raids.
+   I'm quite confident that at early gear levels FG is hands down the best spec, if you could keep him alive (dungeons, Kara).
+   Felguard raiding truly becomes viable in Wrath, and its _pretty dang good_ there.
+   If dual-spec was added to TBC Classic, I would definitely keep a spec on FG, and would consider using it on certain raid fights.
+
+Other observations:
++ DS based specs are a scaling bet. The 15% scaling from DS is really nice, but your pet is actually a pretty dang good constant DOT. 
+  You need a lot of gear for the ~5% extra scaling your getting to out-damage the ~273 DPS your moderately buffed Imp does.
+  This is demonstrated by 0/21/40 being a DPS LOSS (by a significant factor) over HAVING NO TALENTS AT ALL, because the DS scaling
+  doesnt nearly compensate for not having a pet. SM/DS/Bane is also near the bottom throughout the whole gear range.
++ Affliction seems ... overrated? The conventional wisdom back in the day was "Affliction is best early, Shadow Destro is best late".
+  - Siphon Life is a pretty shit spell with a _50%_ spellpower coefficient. The biggest arguement for it that it gives you some healing,
+    while its a small DPS boost at very low gear levels, in MID ranges it will be "DPS neutral" and at high gear levels its a clear DPS loss.
+  - UA is known to be overtaken by Ruin at mid-ish gear levels.
+  - A more complex rotation is going to be harder to execute and keep good DOT uptime with movement and "raid mechanics" happening. 
+    This is a complex rotation that isn't even better DPS wise than just about anything.
++ If I was given the job of being the Malediction/CoE raidbuffer, without question I'd go SM/Ruin.
++ DT/Ruin (1/39/21) is VERY solid throughout the whole spectrum. Because I really like Instant Corruption, back in the day I raided with
+  6/34/21. A factor that both of these specs have is a 20% threat reduction, which can be really nice. DT/Ruin is probably underestimated
+  because the crit bonus is not currently applied to pets.
++ My personal standout specs before going SB-spam spec would be, in no order:
+  - SM/Malediction/Ruin 38/2/21 (Raid support)
+  - DT/Ruin 1/39/21 (high damage, threat reduction)
+  - SL/Ruin 6/34/21 (threat reduction with increased mobility at the cost of crit)
++ Its not tooooootally clear that SB spam spec is actually the best? Maybe when you factor in Heroism it is. But in a target-dummy fight,
+  it doesnt seem best unless theres a pretty real bug in my sim.
+  Given that pet damage was modeled in green gear (tho, in a wrath private server), I dont think I'm massively overestimating pet damage.

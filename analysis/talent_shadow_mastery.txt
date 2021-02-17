@@ -1,0 +1,68 @@
+0/5 Shadow Mastery ==================================================
+
+Total      :      693,122 (1155 DPS) Casts:  262   Miss:   0 ( 0.0%)
+Shadow Bolt:      311,652 (45.0%)    Casts:  125  Crits:  16 (12.8%)
+Immolate   :       93,918 (13.5%)    Casts:   34  Crits:  14 (41.2%)
+Corruption :      106,777 (15.4%)    Casts:   32
+Curse Doom :       81,612 (11.8%)    Casts:   11
+Curse Agony:        7,968 ( 1.1%)    Casts:    2
+Firebolt   :       91,195 (13.2%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+1/5 Shadow Mastery ==================================================
+
+Total      :      703,322 (1172 DPS) Casts:  262   Miss:   4 ( 2.0%)
+Shadow Bolt:      322,653 (45.9%)    Casts:  126  Crits:  24 (19.0%)
+Immolate   :       90,435 (12.9%)    Casts:   34  Crits:   3 ( 8.8%)
+Corruption :      107,670 (15.3%)    Casts:   32
+Curse Doom :       83,241 (11.8%)    Casts:    9
+Curse Agony:        8,128 ( 1.2%)    Casts:    3
+Firebolt   :       91,195 (13.0%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+2/5 Shadow Mastery ==================================================
+
+Total      :      713,336 (1188 DPS) Casts:  261   Miss:   3 ( 1.5%)
+Shadow Bolt:      327,412 (45.9%)    Casts:  126  Crits:  21 (16.7%)
+Immolate   :       92,369 (12.9%)    Casts:   35  Crits:   9 (25.7%)
+Corruption :      109,705 (15.4%)    Casts:   31
+Curse Doom :       84,870 (11.9%)    Casts:    9
+Curse Agony:        7,785 ( 1.1%)    Casts:    2
+Firebolt   :       91,195 (12.8%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+3/5 Shadow Mastery ==================================================
+
+Total      :      723,922 (1206 DPS) Casts:  261   Miss:   4 ( 2.0%)
+Shadow Bolt:      333,620 (46.1%)    Casts:  126  Crits:  21 (16.7%)
+Immolate   :       92,754 (12.8%)    Casts:   35  Crits:  10 (28.6%)
+Corruption :      111,925 (15.5%)    Casts:   31
+Curse Doom :       86,508 (11.9%)    Casts:    9
+Curse Agony:        7,920 ( 1.1%)    Casts:    2
+Firebolt   :       91,195 (12.6%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+4/5 Shadow Mastery ==================================================
+
+Total      :      733,742 (1222 DPS) Casts:  262   Miss:   3 ( 1.5%)
+Shadow Bolt:      345,005 (47.0%)    Casts:  125  Crits:  25 (20.0%)
+Immolate   :       89,683 (12.2%)    Casts:   36  Crits:   3 ( 8.3%)
+Corruption :      112,728 (15.4%)    Casts:   31
+Curse Doom :       88,137 (12.0%)    Casts:   10
+Curse Agony:        6,994 ( 1.0%)    Casts:    2
+Firebolt   :       91,195 (12.4%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+5/5 Shadow Mastery ==================================================
+
+Total      :      744,575 (1240 DPS) Casts:  261   Miss:   3 ( 1.5%)
+Shadow Bolt:      348,370 (46.8%)    Casts:  126  Crits:  23 (18.3%)
+Immolate   :       90,829 (12.2%)    Casts:   34  Crits:   5 (14.7%)
+Corruption :      116,180 (15.6%)    Casts:   32
+Curse Doom :       89,766 (12.1%)    Casts:    9
+Curse Agony:        8,235 ( 1.1%)    Casts:    2
+Firebolt   :       91,195 (12.2%)    Casts:  299
+Lifetap    :        1,354 (MPT)      Casts:   58  (85.3s)
+
+*** As with others, this is "in a vacuum" analysis, no other talents in play.
+Actual impact is quite large, but its really a matter of "affliction vs other specs"...

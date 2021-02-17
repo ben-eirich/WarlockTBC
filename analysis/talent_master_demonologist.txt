@@ -1,0 +1,77 @@
+Felguard : 0/5 Master Demonologist ========================
+
+Total      :      777,578 (1295 DPS) Casts:  260   Miss:   3 ( 1.5%)
+Shadow Bolt:      277,749 (35.7%)    Casts:  118  Crits:  51 (43.2%)
+Immolate   :       88,318 (11.4%)    Casts:   37  Crits:  14 (37.8%)
+Corruption :       82,775 (10.6%)    Casts:   31
+Curse Doom :       69,300 ( 8.9%)    Casts:   10
+Curse Agony:        6,672 ( 0.9%)    Casts:    3
+FG Melee   :      196,127 (25.2%)    Casts:  299
+FG Cleave  :       56,637 ( 7.3%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard : 1/5 Master Demonologist ========================
+
+Total      :      784,739 (1307 DPS) Casts:  260   Miss:   3 ( 1.5%)
+Shadow Bolt:      277,323 (35.3%)    Casts:  118  Crits:  48 (40.7%)
+Immolate   :       89,462 (11.4%)    Casts:   37  Crits:  16 (43.2%)
+Corruption :       85,860 (10.9%)    Casts:   32
+Curse Doom :       69,993 ( 8.9%)    Casts:    9
+Curse Agony:        7,016 ( 0.9%)    Casts:    3
+FG Melee   :      197,805 (25.2%)    Casts:  299
+FG Cleave  :       57,280 ( 7.3%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard : 2/5 Master Demonologist ========================
+
+Total      :      792,548 (1320 DPS) Casts:  260   Miss:   1 ( 0.5%)
+Shadow Bolt:      283,089 (35.7%)    Casts:  119  Crits:  49 (41.2%)
+Immolate   :       88,929 (11.2%)    Casts:   37  Crits:  12 (32.4%)
+Corruption :       86,760 (10.9%)    Casts:   31
+Curse Doom :       70,686 ( 8.9%)    Casts:    9
+Curse Agony:        6,925 ( 0.9%)    Casts:    3
+FG Melee   :      198,613 (25.1%)    Casts:  299
+FG Cleave  :       57,546 ( 7.3%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard : 3/5 Master Demonologist ========================
+
+Total      :      800,510 (1334 DPS) Casts:  260   Miss:   1 ( 0.5%)
+Shadow Bolt:      280,620 (35.1%)    Casts:  119  Crits:  44 (37.0%)
+Immolate   :       92,677 (11.6%)    Casts:   37  Crits:  20 (54.1%)
+Corruption :       87,660 (11.0%)    Casts:   31
+Curse Doom :       71,379 ( 8.9%)    Casts:    9
+Curse Agony:        7,007 ( 0.9%)    Casts:    3
+FG Melee   :      202,975 (25.4%)    Casts:  299
+FG Cleave  :       58,192 ( 7.3%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard : 4/5 Master Demonologist ========================
+
+Total      :      808,236 (1347 DPS) Casts:  259   Miss:   3 ( 1.5%)
+Shadow Bolt:      283,443 (35.1%)    Casts:  119  Crits:  48 (40.3%)
+Immolate   :       92,808 (11.5%)    Casts:   36  Crits:  17 (47.2%)
+Corruption :       88,380 (10.9%)    Casts:   31
+Curse Doom :       72,072 ( 8.9%)    Casts:    9
+Curse Agony:        7,216 ( 0.9%)    Casts:    3
+FG Melee   :      204,984 (25.4%)    Casts:  299
+FG Cleave  :       59,333 ( 7.3%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard : 5/5 Master Demonologist ========================
+
+Total      :      815,949 (1359 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      289,394 (35.5%)    Casts:  119  Crits:  47 (39.5%)
+Immolate   :       93,294 (11.4%)    Casts:   36  Crits:  16 (44.4%)
+Corruption :       89,280 (10.9%)    Casts:   31
+Curse Doom :       72,765 ( 8.9%)    Casts:    9
+Curse Agony:        7,300 ( 0.9%)    Casts:    3
+FG Melee   :      205,375 (25.2%)    Casts:  299
+FG Cleave  :       58,541 ( 7.2%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+================================================
+Notes:
+ + All sims were done with 5/5 Unholy Power, since that is required to take Master Demonologist.
+ + We only sim (generally) Imp and Felguard, not succubus. Succubus is interesting when it comes to this talent, though. (maybe we should sim succubus... - though if you're just after multiplier, you should probably just sac?)
+ + We didn't sim Imp because its kind of impossible to sim the DPS impact of 20% lower threat. However, if you are threat capped then the DPS increase is potentially 20%.

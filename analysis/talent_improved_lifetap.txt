@@ -1,0 +1,32 @@
+0/2 Lifetap
+
+Total      :      566,915 ( 944 DPS) Casts:  260   Miss:   9 ( 4.5%)
+Shadow Bolt:      259,007 (45.7%)    Casts:  117  Crits:  44 (37.6%)
+Immolate   :       86,648 (15.3%)    Casts:   39  Crits:   9 (23.1%)
+Corruption :       83,248 (14.7%)    Casts:   31
+Curse Doom :       69,300 (12.2%)    Casts:    9
+Curse Agony:        6,811 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.9%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+1/2 Lifetap
+
+Total      :      572,049 ( 953 DPS) Casts:  257   Miss:  12 ( 6.0%)
+Shadow Bolt:      259,383 (45.3%)    Casts:  120  Crits:  46 (38.3%)
+Immolate   :       90,321 (15.8%)    Casts:   38  Crits:  21 (55.3%)
+Corruption :       84,194 (14.7%)    Casts:   31
+Curse Doom :       69,300 (12.1%)    Casts:    9
+Curse Agony:        6,950 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.8%)    Casts:  239
+Lifetap    :        1,408 (MPT)      Casts:   56  (84.0s)
+
+2/2 Lifetap 
+
+Total      :      576,104 ( 960 DPS) Casts:  256   Miss:  10 ( 4.9%)
+Shadow Bolt:      270,342 (46.9%)    Casts:  122  Crits:  47 (38.5%)
+Immolate   :       84,975 (14.7%)    Casts:   39  Crits:   7 (17.9%)
+Corruption :       82,775 (14.4%)    Casts:   31
+Curse Doom :       69,300 (12.0%)    Casts:    9
+Curse Agony:        6,811 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.7%)    Casts:  239
+Lifetap    :        1,536 (MPT)      Casts:   52  (78.0s)

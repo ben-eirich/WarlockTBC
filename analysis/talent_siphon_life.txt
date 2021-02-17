@@ -1,0 +1,124 @@
+Affliction: To Siphon Life Or Not?
+
+Every affliction guide I've seen says to keep up Siphon Life. It does a fixed, low damage
+with only a 50% spellpower coefficent (UA has 100%; Corruption has 120% coefficient (156% with Empowered Corruption).
+
+I assume "survivability" is the main reason to recommend keeping SL up. Sims do not
+bear out the recommendation.
+
+==================( GREEN GEAR )================== 
+WITH SL
+
+Total      :      565,946 ( 943 DPS) Casts:  297   Miss:  31 (14.7%)
+Shadow Bolt:      150,028 (26.5%)    Casts:  100  Crits:  10 (10.0%)
+Immolate   :       63,769 (11.3%)    Casts:   44  Crits:   7 (15.9%)
+Corruption :       87,513 (15.5%)    Casts:   34
+Curse Doom :       72,830 (12.9%)    Casts:   10
+Curse Agony:        7,618 ( 1.3%)    Casts:    3
+Siphon Life:       26,184 ( 4.6%)    Casts:   20
+Unstable Af:       74,532 (13.2%)    Casts:   37
+Firebolt   :      158,004 (27.9%)    Casts:  399
+Lifetap    :        1,136 (MPT)      Casts:   86  (129.0s)
+
+WITHOUT SL
+
+Total      :      562,637 ( 937 DPS) Casts:  291   Miss:  35 (16.7%)
+Shadow Bolt:      173,313 (30.8%)    Casts:  114  Crits:  12 (10.5%)
+Immolate   :       63,018 (11.2%)    Casts:   43  Crits:   6 (14.0%)
+Corruption :       86,211 (15.3%)    Casts:   39
+Curse Doom :       74,379 (13.2%)    Casts:   10
+Curse Agony:        7,712 ( 1.4%)    Casts:    3
+Unstable Af:       73,884 (13.1%)    Casts:   33
+Firebolt   :      158,004 (28.1%)    Casts:  399
+Lifetap    :        1,136 (MPT)      Casts:   82  (123.0s)
+
+Okay, at green gear, SL is a slight DPS increase.
+
+==================( Pre-Raid GEAR )================== 
+WITH SL
+
+Total      :      871,377 (1452 DPS) Casts:  294   Miss:   8 ( 3.5%)
+Shadow Bolt:      343,889 (39.5%)    Casts:  124  Crits:  22 (17.7%)
+Immolate   :       92,704 (10.6%)    Casts:   40  Crits:   1 ( 2.5%)
+Corruption :      140,722 (16.1%)    Casts:   32
+Curse Doom :       88,586 (10.2%)    Casts:    9
+Curse Agony:       10,620 ( 1.2%)    Casts:    4
+Siphon Life:       36,852 ( 4.2%)    Casts:   19
+Unstable Af:      109,068 (12.5%)    Casts:   33
+Firebolt   :      158,004 (18.1%)    Casts:  399
+Lifetap    :        1,549 (MPT)      Casts:   66  (97.0s)
+
+WITHOUT SL
+
+Total      :      870,792 (1451 DPS) Casts:  285   Miss:  10 ( 4.5%)
+Shadow Bolt:      372,645 (42.8%)    Casts:  139  Crits:  25 (18.0%)
+Immolate   :       94,931 (10.9%)    Casts:   38  Crits:   6 (15.8%)
+Corruption :      143,704 (16.5%)    Casts:   32
+Curse Doom :       90,511 (10.4%)    Casts:    9
+Curse Agony:       10,997 ( 1.3%)    Casts:    3
+Unstable Af:      111,656 (12.8%)    Casts:   31
+Firebolt   :      158,004 (18.1%)    Casts:  399
+Lifetap    :        1,549 (MPT)      Casts:   64  (94.1s)
+
+With PRE-RAID gear, SL is a wash. You can simplify your rotation and get more SB
+casts = more ISB uptime and not lose any DPS.
+
+==================( Tier 5 GEAR )================== 
+WITH SL
+
+Total      :      972,509 (1620 DPS) Casts:  291   Miss:   4 ( 1.8%)
+Shadow Bolt:      405,304 (41.7%)    Casts:  128  Crits:  31 (24.2%)
+Immolate   :      100,313 (10.3%)    Casts:   37  Crits:   9 (24.3%)
+Corruption :      158,364 (16.3%)    Casts:   33
+Curse Doom :       99,741 (10.3%)    Casts:    9
+Curse Agony:       11,540 ( 1.2%)    Casts:    2
+Siphon Life:       39,243 ( 4.0%)    Casts:   19
+Unstable Af:      121,953 (12.5%)    Casts:   32
+Firebolt   :      158,004 (16.2%)    Casts:  399
+Lifetap    :        1,624 (MPT)      Casts:   63  (92.6s)
+
+WITHOUT SL
+
+Total      :      973,086 (1621 DPS) Casts:  284   Miss:   5 ( 2.2%)
+Shadow Bolt:      444,572 (45.7%)    Casts:  141  Crits:  27 (19.1%)
+Immolate   :      101,862 (10.5%)    Casts:   38  Crits:  14 (36.8%)
+Corruption :      155,196 (15.9%)    Casts:   32
+Curse Doom :      101,736 (10.5%)    Casts:    9
+Curse Agony:       11,716 ( 1.2%)    Casts:    3
+Unstable Af:      117,213 (12.0%)    Casts:   31
+Firebolt   :      158,004 (16.2%)    Casts:  399
+Lifetap    :        1,624 (MPT)      Casts:   61  (89.7s)
+
+Again, a dead heat. Same argument applies.
+I guess the inverse argument is "no DPS loss to use SL, increases survivability".
+If you like complication rotations, I guess. A rotation without it is probably easier
+to reliably execute without mistakes, and ISB uptime would be increased without it.
+
+==================( Ultimate GEAR )================== 
+WITH SL
+
+Total      :    1,337,979 (2229 DPS) Casts:  349   Miss:   2 ( 0.7%)
+Shadow Bolt:      701,600 (52.4%)    Casts:  177  Crits:  45 (25.4%)
+Immolate   :      129,144 ( 9.7%)    Casts:   38  Crits:  10 (26.3%)
+Corruption :      184,548 (13.8%)    Casts:   33
+Curse Doom :      106,659 ( 8.0%)    Casts:    9
+Curse Agony:       13,152 ( 1.0%)    Casts:    3
+Siphon Life:       44,872 ( 3.4%)    Casts:   20
+Unstable Af:      138,784 (10.4%)    Casts:   32
+Firebolt   :      158,004 (11.8%)    Casts:  399
+Lifetap    :        1,776 (MPT)      Casts:   69  (82.8s)
+
+WITHOUT SL
+
+Total      :    1,344,309 (2240 DPS) Casts:  341   Miss:   4 ( 1.5%)
+Shadow Bolt:      753,340 (56.0%)    Casts:  191  Crits:  53 (27.7%)
+Immolate   :      126,816 ( 9.4%)    Casts:   38  Crits:   8 (21.1%)
+Corruption :      186,914 (13.9%)    Casts:   33
+Curse Doom :      106,659 ( 7.9%)    Casts:    9
+Curse Agony:       12,576 ( 0.9%)    Casts:    2
+Unstable Af:      135,929 (10.1%)    Casts:   31
+Firebolt   :      158,004 (11.8%)    Casts:  399
+Lifetap    :        1,776 (MPT)      Casts:   68  (81.6s)
+
+Not that many people are still running deep affliction with ultimate gear, but if you are,
+its definitely a DPS LOSS to use SL now.

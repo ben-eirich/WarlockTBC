@@ -1,0 +1,50 @@
+0/3 Demonic Knowledge ================================
+
+Total      :      587,354 ( 978 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      276,413 (47.1%)    Casts:  119  Crits:  48 (40.3%)
+Immolate   :       87,650 (14.9%)    Casts:   36  Crits:  12 (33.3%)
+Corruption :       85,140 (14.5%)    Casts:   31
+Curse Doom :       69,300 (11.8%)    Casts:    9
+Curse Agony:        6,950 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.5%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+1/3 Demonic Knowledge ================================
+
+Total      :      593,336 ( 988 DPS) Casts:  260   Miss:   3 ( 1.5%)
+Shadow Bolt:      278,563 (46.9%)    Casts:  118  Crits:  51 (43.2%)
+Immolate   :       90,560 (15.3%)    Casts:   37  Crits:  19 (51.4%)
+Corruption :       85,860 (14.5%)    Casts:   31
+Curse Doom :       69,732 (11.8%)    Casts:   10
+Curse Agony:        6,720 ( 1.1%)    Casts:    3
+Firebolt   :       61,901 (10.4%)    Casts:  239
+Lifetap    :        1,291 (MPT)      Casts:   61  (91.5s)
+
+2/3 Demonic Knowledge ================================
+
+Total      :      598,329 ( 997 DPS) Casts:  259   Miss:   3 ( 1.5%)
+Shadow Bolt:      282,905 (47.3%)    Casts:  119  Crits:  50 (42.0%)
+Immolate   :       90,638 (15.1%)    Casts:   37  Crits:  15 (40.5%)
+Corruption :       85,796 (14.3%)    Casts:   31
+Curse Doom :       70,164 (11.7%)    Casts:    9
+Curse Agony:        6,925 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.3%)    Casts:  239
+Lifetap    :        1,302 (MPT)      Casts:   60  (90.0s)
+
+3/3 Demonic Knowledge ================================
+
+Total      :      605,396 (1008 DPS) Casts:  258   Miss:   2 ( 1.0%)
+Shadow Bolt:      286,483 (47.3%)    Casts:  120  Crits:  49 (40.8%)
+Immolate   :       91,773 (15.2%)    Casts:   36  Crits:  17 (47.2%)
+Corruption :       87,660 (14.5%)    Casts:   31
+Curse Doom :       70,605 (11.7%)    Casts:    9
+Curse Agony:        6,974 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.2%)    Casts:  239
+Lifetap    :        1,313 (MPT)      Casts:   59  (88.5s)
+
+===============================================
+
+Notes: 
+ + This is currently a simplistic sim that you get 22 spell damage per point.
+ + CURRENTLY it does not disable itself if you Sac, which it should.
+ + DPS impact of 66 spell damage will vary depending on your other stats and stat weights.

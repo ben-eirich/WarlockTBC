@@ -1,0 +1,105 @@
+0/5 Imp Corruption ====================================
+
+Total      :      587,070 ( 978 DPS) Casts:  259   Miss:   0 ( 0.0%)
+Shadow Bolt:      276,543 (47.1%)    Casts:  119  Crits:  48 (40.3%)
+Immolate   :       88,655 (15.1%)    Casts:   37  Crits:   9 (24.3%)
+Corruption :       83,721 (14.3%)    Casts:   30
+Curse Doom :       69,300 (11.8%)    Casts:    9
+Curse Agony:        6,950 ( 1.2%)    Casts:    3
+Firebolt   :       61,901 (10.5%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Damage Per Cast Time   (Corruption ):  1,395.4
+Damage Per Cast        (Corruption ):  2,790.7
+
+1/5 Imp Corruption ====================================
+
+Total      :      598,267 ( 997 DPS) Casts:  264   Miss:   3 ( 1.5%)
+Shadow Bolt:      282,728 (47.3%)    Casts:  122  Crits:  52 (42.6%)
+Immolate   :       90,995 (15.2%)    Casts:   38  Crits:  14 (36.8%)
+Corruption :       87,505 (14.6%)    Casts:   31
+Curse Doom :       69,300 (11.6%)    Casts:    9
+Curse Agony:        5,838 ( 1.0%)    Casts:    2
+Firebolt   :       61,901 (10.3%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   62  (93.0s)
+
+Damage Per Cast Time   (Corruption ):  1,764.2
+Damage Per Cast        (Corruption ):  2,822.7
+
+2/5 Imp Corruption ====================================
+
+Total      :      601,258 (1002 DPS) Casts:  266   Miss:   1 ( 0.5%)
+Shadow Bolt:      284,021 (47.2%)    Casts:  122  Crits:  50 (41.0%)
+Immolate   :       92,332 (15.4%)    Casts:   38  Crits:  14 (36.8%)
+Corruption :       87,032 (14.5%)    Casts:   31
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        6,672 ( 1.1%)    Casts:    3
+Firebolt   :       61,901 (10.3%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   63  (94.5s)
+
+Damage Per Cast Time   (Corruption ):  1,871.7
+Damage Per Cast        (Corruption ):  2,807.5
+
+3/5 Imp Corruption ====================================
+
+Total      :      601,284 (1002 DPS) Casts:  266   Miss:   2 ( 1.0%)
+Shadow Bolt:      284,382 (47.3%)    Casts:  121  Crits:  50 (41.3%)
+Immolate   :       91,997 (15.3%)    Casts:   39  Crits:  17 (43.6%)
+Corruption :       87,032 (14.5%)    Casts:   31
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        6,672 ( 1.1%)    Casts:    3
+Firebolt   :       61,901 (10.3%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   63  (94.5s)
+
+Damage Per Cast Time   (Corruption ):  1,871.7
+Damage Per Cast        (Corruption ):  2,807.5
+
+4/5 Imp Corruption ====================================
+
+Total      :      601,327 (1002 DPS) Casts:  266   Miss:   2 ( 1.0%)
+Shadow Bolt:      283,283 (47.1%)    Casts:  122  Crits:  51 (41.8%)
+Immolate   :       92,666 (15.4%)    Casts:   38  Crits:  15 (39.5%)
+Corruption :       87,505 (14.6%)    Casts:   31
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        6,672 ( 1.1%)    Casts:    3
+Firebolt   :       61,901 (10.3%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   63  (94.5s)
+
+Damage Per Cast Time   (Corruption ):  1,881.8
+Damage Per Cast        (Corruption ):  2,822.7
+
+5/5 Imp Corruption ====================================
+
+Total      :      601,119 (1001 DPS) Casts:  265   Miss:   1 ( 0.5%)
+Shadow Bolt:      283,270 (47.1%)    Casts:  122  Crits:  47 (38.5%)
+Immolate   :       91,998 (15.3%)    Casts:   39  Crits:  16 (41.0%)
+Corruption :       87,978 (14.6%)    Casts:   31
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        6,672 ( 1.1%)    Casts:    2
+Firebolt   :       61,901 (10.3%)    Casts:  239
+Lifetap    :        1,280 (MPT)      Casts:   62  (93.0s)
+
+Damage Per Cast Time   (Corruption ):  1,892.0
+Damage Per Cast        (Corruption ):  2,838.0
+
+========================== Analysis ==========================
+
+This is fairly well-trodden ground in theorycrafting, but its an interesting topic.
+
++ 1/5 Corruption is a pretty decent DPS increase for a single talent point.
++ 2/5 Corruption gives 100% of the theoretical benefit of the talent due to the GCD.
+  In a target-dummy scenario with no movement, 5/5 corruption gives no benefit at all
+  over 2/5 corruption.
++ 2/5 Corruption only gives a small benefit over 1/5 corruption.
++ I didn't include the stats, but adding in pre-cast logic to 0/5 corruption gives about
+  a 2 DPS increase, just due to increased uptime.
++ The real benefit from 5/5 corruption is that the spell becomes instant-cast meaning
+  you can cast it while moving.
++ Refreshing Corruption early (as something to do while moving) has a standard penalty;
+  but note that refreshing CoA early has an aggressive penalty due to back-loading damage.
+  You're probably better off casting lifetap while moving.
++ Instant corruption is also valuable on trash and in dungeons to get damage on target
+  a little bit quicker.
+
+
+

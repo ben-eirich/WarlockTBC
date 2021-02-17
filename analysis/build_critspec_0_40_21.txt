@@ -1,0 +1,65 @@
+0/40/21 CritSpec - NAKED - 20% ISB ==================================
+
+Total      :      469,225 ( 782 DPS) Casts:  316   Miss:  31 (15.1%)
+Shadow Bolt:      115,494 (24.6%)    Casts:  109  Crits:  12 (11.0%)
+Immolate   :       43,664 ( 9.3%)    Casts:   44  Crits:   7 (15.9%)
+Corruption :       48,960 (10.4%)    Casts:   37
+Curse Doom :       57,546 (12.3%)    Casts:   11
+Curse Agony:        4,460 ( 1.0%)    Casts:    4
+Firebolt   :      199,101 (42.4%)    Casts:  399
+Lifetap    :          728 (MPT)      Casts:  111  (166.5s)
+
+0/40/21 CritSpec - GREENS - 30% ISB =================================
+
+Total      :      647,275 (1078 DPS) Casts:  304   Miss:  36 (16.5%)
+Shadow Bolt:      219,968 (34.0%)    Casts:  128  Crits:  21 (16.4%)
+Immolate   :       75,367 (11.6%)    Casts:   43  Crits:   5 (11.6%)
+Corruption :       76,118 (11.8%)    Casts:   34
+Curse Doom :       70,352 (10.9%)    Casts:    9
+Curse Agony:        6,369 ( 1.0%)    Casts:    4
+Firebolt   :      199,101 (30.8%)    Casts:  399
+Lifetap    :          995 (MPT)      Casts:   86  (129.0s)
+
+0/40/21 CritSpec - PRE-RAID - 40% ISB =================================
+
+Total      :      978,896 (1631 DPS) Casts:  299   Miss:  10 ( 4.3%)
+Shadow Bolt:      456,340 (46.6%)    Casts:  148  Crits:  34 (23.0%)
+Immolate   :      109,997 (11.2%)    Casts:   37  Crits:   9 (24.3%)
+Corruption :      115,773 (11.8%)    Casts:   33
+Curse Doom :       88,754 ( 9.1%)    Casts:   11
+Curse Agony:        8,931 ( 0.9%)    Casts:    2
+Firebolt   :      199,101 (20.3%)    Casts:  399
+Lifetap    :        1,339 (MPT)      Casts:   68  (100.0s)
+
+0/40/21 CritSpec - TIER 5 - 60% ISB =================================
+
+Total      :    1,101,691 (1836 DPS) Casts:  297   Miss:   2 ( 0.9%)
+Shadow Bolt:      552,968 (50.2%)    Casts:  152  Crits:  41 (27.0%)
+Immolate   :      113,238 (10.3%)    Casts:   37  Crits:   9 (24.3%)
+Corruption :      128,690 (11.7%)    Casts:   32
+Curse Doom :       97,718 ( 8.9%)    Casts:    9
+Curse Agony:        9,976 ( 0.9%)    Casts:    3
+Firebolt   :      199,101 (18.1%)    Casts:  399
+Lifetap    :        1,402 (MPT)      Casts:   64  (94.1s)
+
+0/40/21 CritSpec - ULTIMATE - 75% ISB =================================
+
+Total      :    1,518,232 (2530 DPS) Casts:  356   Miss:   0 ( 0.0%)
+Shadow Bolt:      897,860 (59.1%)    Casts:  200  Crits:  60 (30.0%)
+Immolate   :      149,718 ( 9.9%)    Casts:   39  Crits:  12 (30.8%)
+Corruption :      149,868 ( 9.9%)    Casts:   32
+Curse Doom :      110,576 ( 7.3%)    Casts:    9
+Curse Agony:       11,109 ( 0.7%)    Casts:    3
+Firebolt   :      199,101 (13.1%)    Casts:  399
+Lifetap    :        1,528 (MPT)      Casts:   73  (87.6s)
+
+0/40/21 CritSpec - IMAGINARY - 80% ISB =================================
+
+Total      :    1,898,846 (3164 DPS) Casts:  354   Miss:   3 ( 1.0%)
+Shadow Bolt:    1,214,416 (64.0%)    Casts:  208  Crits:  95 (45.7%)
+Immolate   :      179,244 ( 9.4%)    Casts:   36  Crits:  21 (58.3%)
+Corruption :      172,515 ( 9.1%)    Casts:   32
+Curse Doom :      121,644 ( 6.4%)    Casts:    9
+Curse Agony:       11,926 ( 0.6%)    Casts:    3
+Firebolt   :      199,101 (10.5%)    Casts:  399
+Lifetap    :        1,728 (MPT)      Casts:   66  (78.5s)

@@ -1,0 +1,49 @@
+0/40/21 - Crit Spec - T5 - 60% ISB  ==================================
+
+Total      :    1,102,870 (1838 DPS) Casts:  298   Miss:   4 ( 1.7%)
+Shadow Bolt:      546,835 (49.6%)    Casts:  151  Crits:  42 (27.8%)
+Immolate   :      117,827 (10.7%)    Casts:   37  Crits:  13 (35.1%)
+Corruption :      129,315 (11.7%)    Casts:   32
+Curse Doom :       99,672 ( 9.0%)    Casts:   10
+Curse Agony:       10,120 ( 0.9%)    Casts:    3
+Firebolt   :      199,101 (18.1%)    Casts:  399
+Lifetap    :        1,402 (MPT)      Casts:   65  (95.6s)
+
+1/39/21 - Crit Spec - T5 - 60% ISB  ==================================
+
+Total      :    1,114,054 (1856 DPS) Casts:  304   Miss:   6 ( 2.5%)
+Shadow Bolt:      562,893 (50.5%)    Casts:  154  Crits:  45 (29.2%)
+Immolate   :      116,993 (10.5%)    Casts:   39  Crits:  12 (30.8%)
+Corruption :      129,438 (11.6%)    Casts:   32
+Curse Doom :       95,764 ( 8.6%)    Casts:   10
+Curse Agony:        9,865 ( 0.9%)    Casts:    3
+Firebolt   :      199,101 (17.9%)    Casts:  399
+Lifetap    :        1,402 (MPT)      Casts:   66  (97.0s)
+
+***** 1/39 is a solid 20 DPS ahead of 0/40. Excellent result.
+
+2/38/21 - Crit Spec - T5 - 60% ISB  ==================================
+
+Total      :    1,114,794 (1857 DPS) Casts:  305   Miss:   2 ( 0.8%)
+Shadow Bolt:      553,440 (49.6%)    Casts:  156  Crits:  39 (25.0%)
+Immolate   :      118,675 (10.6%)    Casts:   38  Crits:  11 (28.9%)
+Corruption :      132,810 (11.9%)    Casts:   32
+Curse Doom :      101,626 ( 9.1%)    Casts:   10
+Curse Agony:        9,142 ( 0.8%)    Casts:    2
+Firebolt   :      199,101 (17.9%)    Casts:  399
+Lifetap    :        1,402 (MPT)      Casts:   67  (98.5s)
+
+***** 2/38/21 vs 1/39/21 is a tie. Would lean towards 1/39/21 for the
+ISB benefit (which is sadly not modelled here).
+
+0/40/21 - Crit Spec - NO CORRUPTION - T5 - 60% ISB  ==================
+
+Total      :    1,067,993 (1779 DPS) Casts:  290   Miss:   2 ( 0.9%)
+Shadow Bolt:      648,785 (60.7%)    Casts:  178  Crits:  49 (27.5%)
+Immolate   :      112,817 (10.6%)    Casts:   36  Crits:   9 (25.0%)
+Curse Doom :       97,718 ( 9.1%)    Casts:    9
+Curse Agony:        9,572 ( 0.9%)    Casts:    3
+Firebolt   :      199,101 (18.6%)    Casts:  399
+Lifetap    :        1,402 (MPT)      Casts:   64  (94.1s)
+
+****** Not casting Corruption is a huge DPS loss.

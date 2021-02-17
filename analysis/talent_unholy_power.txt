@@ -1,0 +1,147 @@
+IMP :: 0/5 Unholy Power ===========================
+
+Total      :      603,099 (1005 DPS) Casts:  259   Miss:   2 ( 1.0%)
+Shadow Bolt:      273,946 (45.4%)    Casts:  119  Crits:  47 (39.5%)
+Immolate   :       90,322 (15.0%)    Casts:   36  Crits:  20 (55.6%)
+Corruption :       85,140 (14.1%)    Casts:   31
+Curse Doom :       69,300 (11.5%)    Casts:    9
+Curse Agony:        6,950 ( 1.2%)    Casts:    3
+Firebolt   :       77,441 (12.8%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+IMP :: 1/5 Unholy Power ===========================
+
+Total      :      605,905 (1009 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      274,764 (45.3%)    Casts:  119  Crits:  46 (38.7%)
+Immolate   :       89,320 (14.7%)    Casts:   36  Crits:  17 (47.2%)
+Corruption :       85,140 (14.1%)    Casts:   31
+Curse Doom :       69,300 (11.4%)    Casts:    9
+Curse Agony:        6,950 ( 1.1%)    Casts:    3
+Firebolt   :       80,431 (13.3%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+IMP :: 2/5 Unholy Power ===========================
+
+Total      :      609,225 (1015 DPS) Casts:  259   Miss:   3 ( 1.5%)
+Shadow Bolt:      274,426 (45.0%)    Casts:  119  Crits:  50 (42.0%)
+Immolate   :       89,988 (14.8%)    Casts:   36  Crits:  19 (52.8%)
+Corruption :       85,140 (14.0%)    Casts:   31
+Curse Doom :       69,300 (11.4%)    Casts:    9
+Curse Agony:        6,950 ( 1.1%)    Casts:    3
+Firebolt   :       83,421 (13.7%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+IMP :: 3/5 Unholy Power ===========================
+
+Total      :      612,238 (1020 DPS) Casts:  260   Miss:   2 ( 1.0%)
+Shadow Bolt:      275,486 (45.0%)    Casts:  119  Crits:  49 (41.2%)
+Immolate   :       88,652 (14.5%)    Casts:   36  Crits:  15 (41.7%)
+Corruption :       85,140 (13.9%)    Casts:   32
+Curse Doom :       69,300 (11.3%)    Casts:    9
+Curse Agony:        6,950 ( 1.1%)    Casts:    3
+Firebolt   :       86,710 (14.2%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+IMP :: 4/5 Unholy Power ===========================
+
+Total      :      615,515 (1025 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      275,439 (44.7%)    Casts:  119  Crits:  47 (39.5%)
+Immolate   :       88,986 (14.5%)    Casts:   36  Crits:  16 (44.4%)
+Corruption :       85,140 (13.8%)    Casts:   31
+Curse Doom :       69,300 (11.3%)    Casts:    9
+Curse Agony:        6,950 ( 1.1%)    Casts:    3
+Firebolt   :       89,700 (14.6%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+IMP :: 5/5 Unholy Power ===========================
+
+Total      :      618,503 (1030 DPS) Casts:  260   Miss:   1 ( 0.5%)
+Shadow Bolt:      275,944 (44.6%)    Casts:  119  Crits:  47 (39.5%)
+Immolate   :       88,319 (14.3%)    Casts:   36  Crits:  13 (36.1%)
+Corruption :       85,140 (13.8%)    Casts:   32
+Curse Doom :       69,300 (11.2%)    Casts:    9
+Curse Agony:        6,811 ( 1.1%)    Casts:    3
+Firebolt   :       92,989 (15.0%)    Casts:  299
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+===================================================
+
+Felguard :: 0/5 Unholy Power ===========================
+
+Total      :      735,781 (1226 DPS) Casts:  259   Miss:   2 ( 1.0%)
+Shadow Bolt:      276,506 (37.6%)    Casts:  120  Crits:  50 (41.7%)
+Immolate   :       87,985 (12.0%)    Casts:   36  Crits:  12 (33.3%)
+Corruption :       84,667 (11.5%)    Casts:   30
+Curse Doom :       69,300 ( 9.4%)    Casts:   10
+Curse Agony:        6,255 ( 0.9%)    Casts:    2
+FG Melee   :      163,887 (22.3%)    Casts:  299
+FG Cleave  :       47,181 ( 6.4%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard :: 1/5 Unholy Power ===========================
+
+Total      :      744,119 (1240 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      276,689 (37.2%)    Casts:  119  Crits:  48 (40.3%)
+Immolate   :       88,318 (11.9%)    Casts:   36  Crits:  14 (38.9%)
+Corruption :       85,140 (11.4%)    Casts:   31
+Curse Doom :       69,300 ( 9.3%)    Casts:    9
+Curse Agony:        6,950 ( 0.9%)    Casts:    3
+FG Melee   :      169,417 (22.8%)    Casts:  299
+FG Cleave  :       48,305 ( 6.5%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard :: 2/5 Unholy Power ===========================
+
+Total      :      752,379 (1253 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      276,089 (36.7%)    Casts:  119  Crits:  47 (39.5%)
+Immolate   :       87,317 (11.6%)    Casts:   36  Crits:  10 (27.8%)
+Corruption :       84,194 (11.2%)    Casts:   31
+Curse Doom :       69,300 ( 9.2%)    Casts:    9
+Curse Agony:        6,811 ( 0.9%)    Casts:    3
+FG Melee   :      178,099 (23.7%)    Casts:  299
+FG Cleave  :       50,569 ( 6.7%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard :: 3/5 Unholy Power ===========================
+
+Total      :      760,479 (1267 DPS) Casts:  260   Miss:   4 ( 2.0%)
+Shadow Bolt:      276,914 (36.4%)    Casts:  117  Crits:  50 (42.7%)
+Immolate   :       89,654 (11.8%)    Casts:   38  Crits:  18 (47.4%)
+Corruption :       82,775 (10.9%)    Casts:   32
+Curse Doom :       69,300 ( 9.1%)    Casts:    9
+Curse Agony:        6,672 ( 0.9%)    Casts:    3
+FG Melee   :      182,794 (24.0%)    Casts:  299
+FG Cleave  :       52,370 ( 6.9%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard :: 4/5 Unholy Power ===========================
+
+Total      :      769,384 (1282 DPS) Casts:  259   Miss:   1 ( 0.5%)
+Shadow Bolt:      272,836 (35.5%)    Casts:  119  Crits:  44 (37.0%)
+Immolate   :       88,986 (11.6%)    Casts:   36  Crits:  16 (44.4%)
+Corruption :       85,140 (11.1%)    Casts:   31
+Curse Doom :       69,300 ( 9.0%)    Casts:    9
+Curse Agony:        6,950 ( 0.9%)    Casts:    3
+FG Melee   :      191,245 (24.9%)    Casts:  299
+FG Cleave  :       54,927 ( 7.1%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+Felguard :: 5/5 Unholy Power ===========================
+
+Total      :      777,430 (1295 DPS) Casts:  260   Miss:   2 ( 1.0%)
+Shadow Bolt:      277,699 (35.7%)    Casts:  119  Crits:  53 (44.5%)
+Immolate   :       87,315 (11.2%)    Casts:   36  Crits:  12 (33.3%)
+Corruption :       85,613 (11.0%)    Casts:   31
+Curse Doom :       69,300 ( 8.9%)    Casts:    9
+Curse Agony:        6,811 ( 0.9%)    Casts:    4
+FG Melee   :      194,756 (25.1%)    Casts:  299
+FG Cleave  :       55,936 ( 7.2%)    Casts:   75
+Lifetap    :        1,280 (MPT)      Casts:   61  (91.5s)
+
+===================================================
+
+Notes: All of these sims were done with simplistic pet damage models.
+They should be re-evaluated when we have better pet damage models.
+
+It appears to be a much bigger DPS increase for Felguard.
+It is not yet tested whether the talent affects the damage of FG Cleave however.

@@ -1,0 +1,75 @@
+6/34/21 Hybrid Spec (Imp) - NAKED - 20% ISB ========================================
+
+Total      :      473,123 ( 788 DPS) Casts:  323   Miss:  40 (18.5%)
+Shadow Bolt:      120,218 (25.4%)    Casts:  116  Crits:   9 ( 7.8%)
+Immolate   :       42,112 ( 8.9%)    Casts:   48  Crits:   8 (16.7%)
+Corruption :       49,554 (10.5%)    Casts:   39
+Curse Doom :       57,546 (12.2%)    Casts:   10
+Curse Agony:        4,592 ( 1.0%)    Casts:    3
+Firebolt   :      199,101 (42.1%)    Casts:  399
+Lifetap    :          800 (MPT)      Casts:  107  (160.5s)
+
+6/34/21 Hybrid Spec (Imp) - GREENS - 30% ISB ======================================
+
+Total      :      654,166 (1090 DPS) Casts:  310   Miss:  41 (18.0%)
+Shadow Bolt:      229,876 (35.1%)    Casts:  135  Crits:  18 (13.3%)
+Immolate   :       71,951 (11.0%)    Casts:   45  Crits:   5 (11.1%)
+Corruption :       76,364 (11.7%)    Casts:   35
+Curse Doom :       70,352 (10.8%)    Casts:   10
+Curse Agony:        6,522 ( 1.0%)    Casts:    3
+Firebolt   :      199,101 (30.4%)    Casts:  399
+Lifetap    :        1,094 (MPT)      Casts:   82  (123.0s)
+
+6/34/21 Hybrid Spec (Imp) - PRE-RAID - 40% ISB ======================================
+
+Total      :      989,259 (1648 DPS) Casts:  306   Miss:  14 ( 5.8%)
+Shadow Bolt:      457,881 (46.3%)    Casts:  154  Crits:  26 (16.9%)
+Immolate   :      107,567 (10.9%)    Casts:   43  Crits:   8 (18.6%)
+Corruption :      121,223 (12.3%)    Casts:   33
+Curse Doom :       94,418 ( 9.5%)    Casts:    9
+Curse Agony:        9,069 ( 0.9%)    Casts:    3
+Firebolt   :      199,101 (20.1%)    Casts:  399
+Lifetap    :        1,472 (MPT)      Casts:   64  (94.1s)
+
+6/34/21 Hybrid Spec (Imp) - TIER 5 - 60% ISB ======================================
+
+Total      :    1,112,714 (1854 DPS) Casts:  303   Miss:   3 ( 1.2%)
+Shadow Bolt:      555,959 (50.0%)    Casts:  158  Crits:  37 (23.4%)
+Immolate   :      116,175 (10.4%)    Casts:   39  Crits:   9 (23.1%)
+Corruption :      131,686 (11.8%)    Casts:   33
+Curse Doom :       99,672 ( 9.0%)    Casts:    9
+Curse Agony:       10,121 ( 0.9%)    Casts:    3
+Firebolt   :      199,101 (17.9%)    Casts:  399
+Lifetap    :        1,542 (MPT)      Casts:   61  (89.7s)
+
+6/34/21 Hybrid Spec (Imp) - Ultimate - 75% ISB ====================================
+
+Total      :    1,520,049 (2533 DPS) Casts:  360   Miss:   3 ( 1.0%)
+Shadow Bolt:      907,439 (59.7%)    Casts:  209  Crits:  53 (25.4%)
+Immolate   :      140,179 ( 9.2%)    Casts:   37  Crits:   9 (24.3%)
+Corruption :      153,456 (10.1%)    Casts:   33
+Curse Doom :      108,490 ( 7.1%)    Casts:    9
+Curse Agony:       11,384 ( 0.7%)    Casts:    3
+Firebolt   :      199,101 (13.1%)    Casts:  399
+Lifetap    :        1,680 (MPT)      Casts:   69  (82.8s)
+
+6/34/21 Hybrid Spec (Imp) - Imaginary - 80% ISB ==================================
+
+Total      :    1,907,898 (3179 DPS) Casts:  359   Miss:   3 ( 1.0%)
+Shadow Bolt:    1,230,135 (64.5%)    Casts:  217  Crits:  87 (40.1%)
+Immolate   :      173,968 ( 9.1%)    Casts:   37  Crits:  12 (32.4%)
+Corruption :      170,766 ( 9.0%)    Casts:   31
+Curse Doom :      121,644 ( 6.4%)    Casts:    9
+Curse Agony:       12,284 ( 0.6%)    Casts:    3
+Firebolt   :      199,101 (10.4%)    Casts:  399
+Lifetap    :        1,900 (MPT)      Casts:   62  (73.8s)
+
+======================================================================
+
+Notes: Some of the big plays here are 1) Significant Threat Reduction, letting you
+go balls out all the time, 2) Improved survivability (dead DPS is 0).
+Neither of those things are reflected in the sim.  
+This spec includes some flat +dmg upgrades from Demonic Aegis and Demonic Knowledge, 
+my original rationale was that this helped at lower gear levels.
+
++ Imp damage is not necessarily ultra accurately simmed & should be revisited.

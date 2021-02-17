@@ -1,0 +1,27 @@
+0/5 Emberstorm ======================================
+
+Total      :      637,139 (1061 DPS) Casts:  264   Miss:  10 ( 4.9%)
+Shadow Bolt:      276,917 (43.5%)    Casts:  121  Crits:  17 (14.0%)
+Immolate   :       85,493 (13.4%)    Casts:   36  Crits:   3 ( 8.3%)
+Corruption :       98,098 (15.4%)    Casts:   34
+Curse Doom :       78,786 (12.4%)    Casts:    9
+Curse Agony:        6,650 ( 1.0%)    Casts:    3
+Firebolt   :       91,195 (14.3%)    Casts:  299
+Lifetap    :        1,291 (MPT)      Casts:   61  (89.7s)
+
+5/5 Emberstorm ======================================
+
+Total      :      654,755 (1091 DPS) Casts:  263   Miss:  11 ( 5.4%)
+Shadow Bolt:      273,336 (41.7%)    Casts:  123  Crits:  20 (16.3%)
+Immolate   :       95,692 (14.6%)    Casts:   35  Crits:   6 (17.1%)
+Corruption :       99,176 (15.1%)    Casts:   32
+Curse Doom :       78,786 (12.0%)    Casts:   10
+Curse Agony:        7,600 ( 1.2%)    Casts:    2
+Firebolt   :      100,165 (15.3%)    Casts:  299
+Lifetap    :        1,291 (MPT)      Casts:   61  (89.7s)
+
+***** This sim is "in a vacuum". This would make a much larger impact for a firelock,
+but we don't support firelock yet.
+
+NOTE there is an open question about if Emberstorm affects Imp Firebolt damage.
+If it didnt, it would only give about a 10 dps improvement in this scenario.

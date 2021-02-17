@@ -1,0 +1,25 @@
+0/5 Devastation =====================================
+
+Total      :      637,240 (1062 DPS) Casts:  264   Miss:  11 ( 5.4%)
+Shadow Bolt:      276,362 (43.4%)    Casts:  123  Crits:  17 (13.8%)
+Immolate   :       85,135 (13.4%)    Casts:   36  Crits:   5 (13.9%)
+Corruption :       98,637 (15.5%)    Casts:   33
+Curse Doom :       78,786 (12.4%)    Casts:    9
+Curse Agony:        7,125 ( 1.1%)    Casts:    2
+Firebolt   :       91,195 (14.3%)    Casts:  299
+Lifetap    :        1,291 (MPT)      Casts:   61  (89.7s)
+
+5/5 Devastation =====================================
+
+Total      :      644,121 (1073 DPS) Casts:  264   Miss:   9 ( 4.4%)
+Shadow Bolt:      281,945 (43.8%)    Casts:  123  Crits:  21 (17.1%)
+Immolate   :       86,972 (13.5%)    Casts:   35  Crits:   6 (17.1%)
+Corruption :       98,098 (15.2%)    Casts:   33
+Curse Doom :       78,786 (12.2%)    Casts:   10
+Curse Agony:        7,125 ( 1.1%)    Casts:    2
+Firebolt   :       91,195 (14.2%)    Casts:  299
+Lifetap    :        1,291 (MPT)      Casts:   61  (89.7s)
+
+***** Its a 5% crit bonus.
+Its DPS benefit will be fairly contextual, dependent on your other talent builds and gear, and also RNG.
+You are encouraged to sim _specific scenarios_.
